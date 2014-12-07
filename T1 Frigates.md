@@ -2,10 +2,8 @@
 
 #### Overview
 ###### Here you will find the current BRAVE Doctrine Frigates fits.
-
-
 ---
-'
+`
 [Condor, Doctrine Condor]
 
 Micro Auxiliary Power Core I
@@ -28,12 +26,12 @@ Small Auxiliary Thrusters I
 Caldari Navy Scourge Light Missile x2000
 Scan Resolution Dampening Script x1
 Targeting Range Dampening Script x1
-'
+`
 ##### Doctrine Usage
 * Condors
 
 ---
-'
+`
 [Kestrel, Doctrine Kestrel]
 
 Power Diagnostic System I
@@ -60,12 +58,12 @@ Targeting Range Script x1
 Scan Resolution Script x1
 Scan Resolution Dampening Script x1
 Targeting Range Dampening Script x1
-'
+`
 ##### Doctrine Usage
 * Kestrels
 
 ---
-'
+`
 [Merlin, Doctrine Merlin]
 
 Damage Control I
@@ -85,14 +83,14 @@ Small Anti-EM Screen Reinforcer I
 Small Hybrid Collision Accelerator I
 Small Anti-Thermal Screen Reinforcer I
 Antimatter Charge S x2000
-'
+`
 ##### Doctrine Usage
 * Caracals
 * Merlins
 * Ugly Ducklings
 
 ---
-'
+`
 [Burst, Doctrine T1 Burst]
 
 Capacitor Power Relay I
@@ -112,13 +110,13 @@ Small Capacitor Control Circuit I
 Small Anti-EM Screen Reinforcer I
 
 Warrior II x1
-'
+`
 ##### Doctrine Usage
 * Condors
 * Merlins
 
 ---
-'
+`
 [Burst, Doctrine T2 Burst]
 
 Damage Control II
@@ -138,13 +136,13 @@ Small Capacitor Control Circuit I
 Small Anti-EM Screen Reinforcer I
 
 Warrior II x1
-'
+`
 ##### Doctrine Usage
 * Condors
 * Merlins
 
 ---
-'
+`
 [Burst, Burst Snippie T1]
 
 Damage Control I
@@ -164,12 +162,12 @@ Small Capacitor Control Circuit I
 Small Capacitor Control Circuit I
 
 Warrior II x1
-'
+`
 ##### Doctrine Usage
 * Snippies
 
 ---
-'
+`
 [Burst, Burst Snippie T2]
 
 Damage Control II
@@ -189,28 +187,28 @@ Small Capacitor Control Circuit I
 Small Anti-EM Screen Reinforcer
 
 Warrior II x1
-'
+`
 ##### Doctrine Usage
 * Snippies
 
 --
-'[Griffin, Doctrine Griffin]
+`[Griffin, Doctrine Griffin]
 
 Capacitor Power Relay I
 Signal Distortion Amplifier I
 
 1MN Microwarpdrive I
-'Hypnos' Ion Field ECM I
+`Hypnos` Ion Field ECM I
 Enfeebling Phase Inversion ECM I
 BZ-5 Neutralizing Spatial Destabilizer ECM
-'Umbra' White Noise ECM
+`Umbra` White Noise ECM
 
 Small Particle Dispersion Projector I
 Small Particle Dispersion Projector I
 Small Particle Dispersion Projector I
-'
+`
 ---
-'
+`
 [Maulus, Doctrine Maulus]
 
 Capacitor Power Relay I
@@ -231,14 +229,14 @@ Small Particle Dispersion Projector I
 
 Scan Resolution Dampening Script x3
 Targeting Range Dampening Script x3 
-'
+`
 ##### Doctrine Usage
 * Caracals
 * Snippies
 * Ugly Ducklings
 
 ---
-'
+`
 [Maulus, Brave - 10MN Maulus]
 
 Cap Recharger I
@@ -258,10 +256,10 @@ Hornet EC-300 x4
 
 Scan Resolution Dampening Script x2
 Targeting Range Dampening Script x2
-'
+`
 
 ---
-'
+`
 [Vigil, Doctrine Vigil]
 
 Micro Auxiliary Power Core I
@@ -279,7 +277,7 @@ Target Painter I
 Small Ionic Field Projector I
 Small Particle Dispersion Projector I
 Small Particle Dispersion Projector I 
-'
+`
 ##### Doctrine Usage
 * Longbows
 * Talwars
