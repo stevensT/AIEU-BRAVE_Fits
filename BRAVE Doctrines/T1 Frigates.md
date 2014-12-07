@@ -29,6 +29,7 @@ Targeting Range Dampening Script x1
 ```
 ##### Doctrine Usage
 * Condors
+
 ---
 ```
 [Kestrel, Doctrine Kestrel]
@@ -60,6 +61,7 @@ Targeting Range Dampening Script x1
 ```
 ##### Doctrine Usage
 * Kestrels
+
 ---
 ```
 [Merlin, Doctrine Merlin]
@@ -86,6 +88,7 @@ Antimatter Charge S x2000
 * Caracals
 * Merlins
 * Ugly Ducklings
+
 ---
 ```
 [Burst, Doctrine T1 Burst]
@@ -111,6 +114,7 @@ Warrior II x1
 ##### Doctrine Usage
 * Condors
 * Merlins
+
 ---
 ```
 [Burst, Doctrine T2 Burst]
@@ -136,6 +140,7 @@ Warrior II x1
 ##### Doctrine Usage
 * Condors
 * Merlins
+
 ---
 ```
 [Burst, Burst Snippie T1]
@@ -160,6 +165,7 @@ Warrior II x1
 ```
 ##### Doctrine Usage
 * Snippies
+
 ---
 ```
 [Burst, Burst Snippie T2]
@@ -184,6 +190,7 @@ Warrior II x1
 ```
 ##### Doctrine Usage
 * Snippies
+
 --
 ```
 [Griffin, Doctrine Griffin]
@@ -201,6 +208,9 @@ Small Particle Dispersion Projector I
 Small Particle Dispersion Projector I
 Small Particle Dispersion Projector I
 ```
+```
+##### Doctrine Usage
+* N/A
 ---
 ```
 [Maulus, Doctrine Maulus]
@@ -228,6 +238,7 @@ Targeting Range Dampening Script x3
 * Caracals
 * Snippies
 * Ugly Ducklings
+
 ---
 ```
 [Maulus, Brave - 10MN Maulus]
@@ -252,6 +263,7 @@ Targeting Range Dampening Script x2
 ```
 ##### Doctrine Usage
 * N/A
+
 ---
 ```
 [Vigil, Doctrine Vigil]
@@ -275,4 +287,4 @@ Small Particle Dispersion Projector I
 ##### Doctrine Usage
 * Longbows
 * Talwars
----
+

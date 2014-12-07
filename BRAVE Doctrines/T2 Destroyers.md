@@ -32,6 +32,7 @@ Warp Disrupt Probe x80
 * Freedom Fleet
 * Hellhounds
 * Ugly Ducklings
+
 ---
 ```
 [Flycatcher, Doctrine Flycatcher]
@@ -63,6 +64,7 @@ Caldari Navy Scourge Light Missile x1000
 * Freedom Fleet
 * Hellhounds
 * Ugly Ducklings
+
 ---
 ```
 [Heretic, Doctrine Heretic]
@@ -94,6 +96,7 @@ Warp Disrupt Probe x80
 * Freedom Fleet
 * Hellhounds
 * Ugly Ducklings
+
 ---
 ```
 [Sabre, Doctrine Sabre]
@@ -125,4 +128,5 @@ Warp Disrupt Probe x80
 * Freedom Fleet
 * Hellhounds
 * Ugly Ducklings
+
 ---

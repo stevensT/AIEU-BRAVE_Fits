@@ -30,6 +30,7 @@ Hornet EC-300 x5
 ```
 ##### Doctrine Usage
 * FatFleet
+
 ---
 ```
 [Celestis, FatFleet Celestis]
@@ -59,6 +60,7 @@ Hornet EC-300 x5
 ```
 ##### Doctrine Usage
 * FatFleet
+
 ---
 ```
 [Caracal, Caracal RLM]
@@ -96,6 +98,7 @@ Scan Resolution Script x1
 ##### Doctrine Usage
 * Caracals
 * Ugly Ducklings
+
 ---
 ```
 [Caracal, Caracal Heavy]
@@ -121,7 +124,6 @@ Medium Hydraulic Bay Thrusters I
 Medium Hydraulic Bay Thrusters I
 Medium Core Defense Field Extender I
 
-
 Hornet EC-300 x2
 Caldari Navy Mjolnir Heavy Missile x1500
 Caldari Navy Scourge Heavy Missile x1500
@@ -133,6 +135,7 @@ Scan Resolution Script x1
 ##### Doctrine Usage
 * Caracals
 * Ugly Ducklings
+
 ---
 ```
 [Exequror, FatFleet Exequror Newbie]
@@ -159,6 +162,7 @@ Medium Trimark Armor Pump I
 ```
 ##### Doctrine Usage
 * FatFleet
+
 ---
 ```
 [Moa, Moa AB Newbro]
@@ -191,6 +195,7 @@ Caldari Navy Iron Charge M x2000
 ```
 ##### Doctrine Usage
 * Ugly Ducklings
+
 ---
 ```
 [Moa, Moa MWD Newbro]
@@ -224,6 +229,7 @@ Navy Cap Booster 400 x20
 ```
 ##### Doctrine Usage
 * Ugly Ducklings
+
 ---
 ```
 [Moa, Moa AB T2]
@@ -256,6 +262,7 @@ Caldari Navy Thorium Charge M x2000
 ```
 ##### Doctrine Usage
 * Ugly Ducklings
+
 ---
 ```
 [Moa, Moa MWD T2]
@@ -289,6 +296,7 @@ Navy Cap Booster 400 x20
 ```
 ##### Doctrine Usage
 * Ugly Ducklings
+
 ---
 ```
 [Scythe, Scythe AB Optimal]
@@ -318,6 +326,7 @@ Light Armor Maintenance Bot I x4
 ```
 ##### Doctrine Usage
 * Ugly Ducklings
+
 ---
 ```
 [Scythe, Scythe AB Newbro]
@@ -347,6 +356,7 @@ Light Armor Maintenance Bot I x4
 ```
 ##### Doctrine Usage
 * Ugly Ducklings
+
 ---
 ```
 [Scythe, Scythe MWD Optimal]
@@ -376,6 +386,7 @@ Light Armor Maintenance Bot I x4
 ##### Doctrine Usage
 * Caracals
 * Ugly Ducklings
+
 ---
 ```
 [Scythe, Scythe MWD Newbro]
@@ -405,4 +416,3 @@ Light Armor Maintenance Bot I x4
 ##### Doctrine Usage
 * Caracals
 * Ugly Ducklings
----

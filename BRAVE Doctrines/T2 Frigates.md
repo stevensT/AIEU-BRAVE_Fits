@@ -27,6 +27,7 @@ Scan Resolution Script x1
 ```
 ##### Doctrine Usage
 * Murder Fleet
+
 ---
 [Crow, Crow T2 Point]
 
@@ -52,6 +53,7 @@ Scan Resolution Script x1
 ```
 ##### Doctrine Usage
 * Murder Fleet
+
 ---
 ```
 [Crow, Crow T1 Scram]
@@ -78,6 +80,7 @@ Scan Resolution Script x1
 ```
 ##### Doctrine Usage
 * Murder Fleet
+
 ---
 ```
 [Crow, Crow T2 Scram]
@@ -104,6 +107,7 @@ Scan Resolution Script x1
 ```
 ##### Doctrine Usage
 * Murder Fleet
+
 ---
 ```
 [Harpy, Harpy T1 Guns]
@@ -131,6 +135,7 @@ Caldari Navy Antimatter Charge S x2000
 ```
 ##### Doctrine Usage
 * Snippies
+
 ---
 ```
 [Harpy, Harpy T2 Guns]
@@ -158,6 +163,7 @@ Caldari Navy Antimatter Charge S x2000
 ```
 ##### Doctrine Usage
 * Snippies
+
 ---
 ```
 [Hound, Hound Bomber]
@@ -183,6 +189,7 @@ Caldari Navy Nova Torpedo x1000
 ```
 ##### Doctrine Usage
 * Bombers
+
 ---
 ```
 [Manticore, Manticore Bomber]
@@ -208,6 +215,7 @@ Caldari Navy Scourge Torpedo x1000
 ```
 ##### Doctrine Usage
 * Bombers
+
 ---
 ```
 [Nemesis, Nemesis Bomber]
@@ -233,6 +241,7 @@ Caldari Navy Inferno Torpedo x1000
 ```
 ##### Doctrine Usage
 * Bombers
+
 ---
 ```
 [Purifier, Purifier Bomber]
@@ -258,6 +267,7 @@ Caldari Navy Mjolnir Torpedo x1000
 ```
 ##### Doctrine Usage
 * Bombers
+
 ---
 ```
 [Hound, Hound Hammer]
@@ -283,6 +293,7 @@ Caldari Navy Nova Torpedo x1000
 ```
 ##### Doctrine Usage
 * Bombers
+
 ---
 ```
 [Manticore, Manticore Hammer]
@@ -308,6 +319,7 @@ Caldari Navy Scourge Torpedo x1000
 ```
 ##### Doctrine Usage
 * Bombers
+
 ---
 ```
 [Nemesis, Nemesis Hammer]
@@ -333,6 +345,7 @@ Caldari Navy Inferno Torpedo x1000
 ```
 ##### Doctrine Usage
 * Bombers
+
 ---
 ```
 [Purifier, Purifier Hammer]
@@ -358,6 +371,7 @@ Caldari Navy Mjolnir Torpedo x1000
 ```
 ##### Doctrine Usage
 * Bombers
+
 ---
 ```
 [Hound, Hound Siege]
@@ -384,6 +398,7 @@ Caldari Navy Nova Torpedo x250
 ```
 ##### Doctrine Usage
 * Bombers
+
 ---
 ```
 [Manticore, Manticore Siege]
@@ -407,6 +422,7 @@ Small Ancillary Current Router I
 
 Scourge Torpedo x1500
 Caldari Navy Scourge Torpedo x250
+
 ---
 ```
 [Nemesis, Nemesis Siege]
@@ -433,6 +449,7 @@ Caldari Navy Inferno Torpedo x250
 ```
 ##### Doctrine Usage
 * Bombers
+
 ---
 ```
 [Purifier, Purifier Siege]

@@ -32,6 +32,7 @@ Scan Resolution Script x2
 ##### Doctrine Usage
 * Longbows
 * Ugly Ducklings
+
 ---
 ```
 [Cormorant, Cormorant Newbie]
@@ -63,6 +64,7 @@ Scan Resolution Script x2
 ##### Doctrine Usage
 * Longbows
 * Ugly Ducklings
+
 ---
 ```
 [Talwar, Talwar 1.0]
@@ -93,6 +95,7 @@ Scan Resolution Script x2
 ```
 ##### Doctrine Usage
 * Talwar
+
 ---
 ```
 [Talwar, Talwar 2.0]
@@ -125,6 +128,7 @@ Targeting Range Dampening Script x3
 ```
 ##### Doctrine Usage
 * Talwar
+
 ---
 
 
