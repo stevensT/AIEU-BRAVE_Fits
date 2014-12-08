@@ -208,9 +208,9 @@ Small Particle Dispersion Projector I
 Small Particle Dispersion Projector I
 Small Particle Dispersion Projector I
 ```
-```
 ##### Doctrine Usage
 * N/A
+
 ---
 ```
 [Maulus, Doctrine Maulus]
