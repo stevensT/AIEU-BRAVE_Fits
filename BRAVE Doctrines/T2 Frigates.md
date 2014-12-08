@@ -29,6 +29,7 @@ Scan Resolution Script x1
 * Murder Fleet
 
 ---
+```
 [Crow, Crow T2 Point]
 
 Micro Auxiliary Power Core I
@@ -422,6 +423,9 @@ Small Ancillary Current Router I
 
 Scourge Torpedo x1500
 Caldari Navy Scourge Torpedo x250
+```
+##### Doctrine Usage
+* Bombers
 
 ---
 ```
