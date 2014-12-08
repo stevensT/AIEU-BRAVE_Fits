@@ -1,0 +1,344 @@
+<?xml version="1.0"?>
+<fittings>
+	<fitting name="Caracal - BCC-CAV-Caracal">
+		<description value=""/>
+		<shipType value="Caracal"/>
+		<hardware slot="low slot 0" type="Ballistic Control System II"/>
+		<hardware slot="low slot 1" type="Nanofiber Internal Structure II"/>
+		<hardware slot="low slot 2" type="Overdrive Injector System II"/>
+		<hardware slot="low slot 3" type="Compact Reactor Control Unit"/>
+		<hardware slot="med slot 0" type="Experimental 10MN Microwarpdrive I"/>
+		<hardware slot="med slot 1" type="Limited Adaptive Invulnerability Field I"/>
+		<hardware slot="med slot 2" type="Large Azeotropic Ward Salubrity I"/>
+		<hardware slot="med slot 3" type="Large Azeotropic Ward Salubrity I"/>
+		<hardware slot="med slot 4" type="J5 Prototype Warp Disruptor I"/>
+		<hardware slot="hi slot 0" type="Advanced 'Limos' Heavy Missile Bay I"/>
+		<hardware slot="hi slot 1" type="Advanced 'Limos' Heavy Missile Bay I"/>
+		<hardware slot="hi slot 2" type="Advanced 'Limos' Heavy Missile Bay I"/>
+		<hardware slot="hi slot 3" type="Advanced 'Limos' Heavy Missile Bay I"/>
+		<hardware slot="hi slot 4" type="Advanced 'Limos' Heavy Missile Bay I"/>
+		<hardware slot="rig slot 0" type="Medium Anti-EM Screen Reinforcer I"/>
+		<hardware slot="rig slot 1" type="Medium Anti-Thermal Screen Reinforcer I"/>
+		<hardware slot="rig slot 2" type="Medium Anti-EM Screen Reinforcer I"/>
+		<hardware qty="2" slot="drone bay" type="Warrior TP-300"/>
+	</fitting>
+	<fitting name="Vexor - BCC-CAV-Vexor">
+		<description value=""/>
+		<shipType value="Vexor"/>
+		<hardware slot="low slot 0" type="1600mm Reinforced Rolled Tungsten Plates I"/>
+		<hardware slot="low slot 1" type="Damage Control II"/>
+		<hardware slot="low slot 2" type="Basic Energized Explosive Membrane"/>
+		<hardware slot="low slot 3" type="Basic Energized Explosive Membrane"/>
+		<hardware slot="low slot 4" type="Drone Damage Amplifier II"/>
+		<hardware slot="med slot 0" type="10MN Microwarpdrive I"/>
+		<hardware slot="med slot 1" type="J5b Phased Prototype Warp Scrambler I"/>
+		<hardware slot="med slot 2" type="X5 Prototype Engine Enervator"/>
+		<hardware slot="med slot 3" type="X5 Prototype Engine Enervator"/>
+		<hardware slot="hi slot 0" type="Modal Light Ion Particle Accelerator I"/>
+		<hardware slot="hi slot 1" type="Modal Light Ion Particle Accelerator I"/>
+		<hardware slot="hi slot 2" type="Modal Light Ion Particle Accelerator I"/>
+		<hardware slot="hi slot 3" type="Modal Light Ion Particle Accelerator I"/>
+		<hardware qty="5" slot="drone bay" type="Warrior II"/>
+		<hardware qty="5" slot="drone bay" type="Hammerhead II"/>
+	</fitting>
+	<fitting name="Omen - BCC-CAV-Omen">
+		<description value=""/>
+		<shipType value="Omen"/>
+		<hardware slot="low slot 0" type="Damage Control II"/>
+		<hardware slot="low slot 1" type="1600mm Reinforced Rolled Tungsten Plates I"/>
+		<hardware slot="low slot 2" type="Energized Adaptive Nano Membrane II"/>
+		<hardware slot="low slot 3" type="Energized Adaptive Nano Membrane II"/>
+		<hardware slot="low slot 4" type="Heat Sink II"/>
+		<hardware slot="low slot 5" type="Heat Sink II"/>
+		<hardware slot="med slot 0" type="Experimental 10MN Afterburner I"/>
+		<hardware slot="med slot 1" type="Tracking Computer II"/>
+		<hardware slot="med slot 2" type="J5b Phased Prototype Warp Scrambler I"/>
+		<hardware slot="hi slot 0" type="Focused Modal Pulse Laser I"/>
+		<hardware slot="hi slot 1" type="Focused Modal Pulse Laser I"/>
+		<hardware slot="hi slot 2" type="Focused Modal Pulse Laser I"/>
+		<hardware slot="hi slot 3" type="Focused Modal Pulse Laser I"/>
+		<hardware slot="hi slot 4" type="Focused Modal Pulse Laser I"/>
+		<hardware slot="rig slot 0" type="Medium Trimark Armor Pump I"/>
+		<hardware slot="rig slot 1" type="Medium Trimark Armor Pump I"/>
+		<hardware slot="rig slot 2" type="Medium Trimark Armor Pump I"/>
+		<hardware qty="3" slot="drone bay" type="Valkyrie II"/>
+		<hardware qty="2" slot="drone bay" type="Warrior II"/>
+	</fitting>
+	<fitting name="Omen - BCC-CAV-Omen/A">
+		<description value=""/>
+		<shipType value="Omen"/>
+		<hardware slot="low slot 0" type="Damage Control II"/>
+		<hardware slot="low slot 1" type="1600mm Reinforced Rolled Tungsten Plates I"/>
+		<hardware slot="low slot 2" type="Energized Adaptive Nano Membrane II"/>
+		<hardware slot="low slot 3" type="Heat Sink II"/>
+		<hardware slot="low slot 4" type="Heat Sink II"/>
+		<hardware slot="low slot 5" type="Heat Sink II"/>
+		<hardware slot="med slot 0" type="Experimental 10MN Afterburner I"/>
+		<hardware slot="med slot 1" type="Tracking Computer II"/>
+		<hardware slot="med slot 2" type="J5 Prototype Warp Disruptor I"/>
+		<hardware slot="hi slot 0" type="Quad Modulated Light Energy Beam I"/>
+		<hardware slot="hi slot 1" type="Quad Modulated Light Energy Beam I"/>
+		<hardware slot="hi slot 2" type="Quad Modulated Light Energy Beam I"/>
+		<hardware slot="hi slot 3" type="Quad Modulated Light Energy Beam I"/>
+		<hardware slot="hi slot 4" type="Quad Modulated Light Energy Beam I"/>
+		<hardware slot="rig slot 0" type="Medium Energy Locus Coordinator I"/>
+		<hardware slot="rig slot 1" type="Medium Energy Locus Coordinator I"/>
+		<hardware slot="rig slot 2" type="Medium Energy Collision Accelerator I"/>
+		<hardware qty="3" slot="drone bay" type="Valkyrie II"/>
+		<hardware qty="2" slot="drone bay" type="Warrior II"/>
+	</fitting>
+	<fitting name="Thorax - BCC-CAV-Thorax">
+		<description value=""/>
+		<shipType value="Thorax"/>
+		<hardware slot="low slot 0" type="Damage Control II"/>
+		<hardware slot="low slot 1" type="Magnetic Field Stabilizer II"/>
+		<hardware slot="low slot 2" type="Magnetic Field Stabilizer II"/>
+		<hardware slot="low slot 3" type="Power Diagnostic System II"/>
+		<hardware slot="low slot 4" type="Tracking Enhancer II"/>
+		<hardware slot="med slot 0" type="Experimental 10MN Microwarpdrive I"/>
+		<hardware slot="med slot 1" type="Adaptive Invulnerability Field II"/>
+		<hardware slot="med slot 2" type="Large F-S9 Regolith Shield Induction"/>
+		<hardware slot="med slot 3" type="Large Shield Extender II"/>
+		<hardware slot="hi slot 0" type="Modal Ion Particle Accelerator I"/>
+		<hardware slot="hi slot 1" type="Modal Ion Particle Accelerator I"/>
+		<hardware slot="hi slot 2" type="Modal Ion Particle Accelerator I"/>
+		<hardware slot="hi slot 3" type="Modal Ion Particle Accelerator I"/>
+		<hardware slot="hi slot 4" type="Modal Ion Particle Accelerator I"/>
+		<hardware slot="rig slot 0" type="Medium Core Defense Field Extender I"/>
+		<hardware slot="rig slot 1" type="Medium Anti-Thermal Screen Reinforcer I"/>
+		<hardware slot="rig slot 2" type="Medium Anti-EM Screen Reinforcer I"/>
+		<hardware qty="5" slot="drone bay" type="Warrior II"/>
+		<hardware qty="5" slot="drone bay" type="Hornet EC-300"/>
+	</fitting>
+	<fitting name="Thorax - BCC-CAV-Thorax/A">
+		<description value=""/>
+		<shipType value="Thorax"/>
+		<hardware slot="low slot 0" type="Damage Control II"/>
+		<hardware slot="low slot 1" type="Magnetic Field Stabilizer II"/>
+		<hardware slot="low slot 2" type="Magnetic Field Stabilizer II"/>
+		<hardware slot="low slot 3" type="Power Diagnostic System II"/>
+		<hardware slot="low slot 4" type="Tracking Enhancer II"/>
+		<hardware slot="med slot 0" type="10MN Afterburner II"/>
+		<hardware slot="med slot 1" type="Adaptive Invulnerability Field II"/>
+		<hardware slot="med slot 2" type="Large F-S9 Regolith Shield Induction"/>
+		<hardware slot="med slot 3" type="Large Shield Extender II"/>
+		<hardware slot="hi slot 0" type="200mm Prototype Gauss Gun"/>
+		<hardware slot="hi slot 1" type="200mm Prototype Gauss Gun"/>
+		<hardware slot="hi slot 2" type="200mm Prototype Gauss Gun"/>
+		<hardware slot="hi slot 3" type="200mm Prototype Gauss Gun"/>
+		<hardware slot="hi slot 4" type="200mm Prototype Gauss Gun"/>
+		<hardware slot="rig slot 0" type="Medium Core Defense Field Extender I"/>
+		<hardware slot="rig slot 1" type="Medium Anti-Thermal Screen Reinforcer I"/>
+		<hardware slot="rig slot 2" type="Medium Anti-EM Screen Reinforcer I"/>
+		<hardware qty="5" slot="drone bay" type="Warrior II"/>
+		<hardware qty="5" slot="drone bay" type="Hornet EC-300"/>
+	</fitting>
+	<fitting name="Rupture - BCC-CAV-Rupture">
+		<description value=""/>
+		<shipType value="Rupture"/>
+		<hardware slot="low slot 0" type="Damage Control I"/>
+		<hardware slot="low slot 1" type="Tracking Enhancer II"/>
+		<hardware slot="low slot 2" type="Gyrostabilizer II"/>
+		<hardware slot="low slot 3" type="Gyrostabilizer II"/>
+		<hardware slot="low slot 4" type="Gyrostabilizer II"/>
+		<hardware slot="med slot 0" type="Large Shield Extender II"/>
+		<hardware slot="med slot 1" type="J5 Prototype Warp Disruptor I"/>
+		<hardware slot="med slot 2" type="Large Shield Extender II"/>
+		<hardware slot="med slot 3" type="Experimental 10MN Microwarpdrive I"/>
+		<hardware slot="hi slot 0" type="425mm AutoCannon I"/>
+		<hardware slot="hi slot 1" type="425mm AutoCannon I"/>
+		<hardware slot="hi slot 2" type="425mm AutoCannon I"/>
+		<hardware slot="hi slot 3" type="425mm AutoCannon I"/>
+	</fitting>
+	<fitting name="Rupture - BCC-CAV-Rupture/A">
+		<description value=""/>
+		<shipType value="Rupture"/>
+		<hardware slot="low slot 0" type="Damage Control II"/>
+		<hardware slot="low slot 1" type="Gyrostabilizer II"/>
+		<hardware slot="low slot 2" type="Gyrostabilizer II"/>
+		<hardware slot="low slot 3" type="Type-D Attenuation Signal Augmentation"/>
+		<hardware slot="low slot 4" type="Tracking Enhancer II"/>
+		<hardware slot="med slot 0" type="Experimental 10MN Microwarpdrive I"/>
+		<hardware slot="med slot 1" type="Large Shield Extender II"/>
+		<hardware slot="med slot 2" type="Adaptive Invulnerability Field II"/>
+		<hardware slot="med slot 3" type="EM Ward Field II"/>
+		<hardware slot="hi slot 0" type="720mm Prototype Siege Cannon"/>
+		<hardware slot="hi slot 1" type="720mm Prototype Siege Cannon"/>
+		<hardware slot="hi slot 2" type="720mm Prototype Siege Cannon"/>
+		<hardware slot="hi slot 3" type="720mm Prototype Siege Cannon"/>
+		<hardware slot="hi slot 4" type="Small Proton Smartbomb II"/>
+		<hardware slot="rig slot 0" type="Medium Ancillary Current Router I"/>
+		<hardware slot="rig slot 1" type="Medium Anti-Thermal Screen Reinforcer I"/>
+		<hardware slot="rig slot 2" type="Medium Core Defense Field Extender I"/>
+	</fitting>
+	<fitting name="Moa - BCC-CAV-Moa">
+		<description value=""/>
+		<shipType value="Moa"/>
+		<hardware slot="low slot 0" type="Damage Control II"/>
+		<hardware slot="low slot 1" type="Magnetic Field Stabilizer II"/>
+		<hardware slot="low slot 2" type="Magnetic Field Stabilizer II"/>
+		<hardware slot="low slot 3" type="Magnetic Field Stabilizer II"/>
+		<hardware slot="med slot 0" type="Large Azeotropic Ward Salubrity I"/>
+		<hardware slot="med slot 1" type="Large Azeotropic Ward Salubrity I"/>
+		<hardware slot="med slot 2" type="Limited Adaptive Invulnerability Field I"/>
+		<hardware slot="med slot 3" type="Warp Scrambler II"/>
+		<hardware slot="med slot 4" type="Experimental 10MN Microwarpdrive I"/>
+		<hardware slot="hi slot 0" type="Anode Electron Particle Cannon I"/>
+		<hardware slot="hi slot 1" type="Anode Electron Particle Cannon I"/>
+		<hardware slot="hi slot 2" type="Anode Electron Particle Cannon I"/>
+		<hardware slot="hi slot 3" type="Anode Electron Particle Cannon I"/>
+		<hardware slot="hi slot 4" type="Anode Electron Particle Cannon I"/>
+		<hardware slot="rig slot 0" type="Medium Core Defense Field Extender I"/>
+		<hardware slot="rig slot 1" type="Medium Core Defense Field Extender I"/>
+		<hardware slot="rig slot 2" type="Medium Core Defense Field Extender I"/>
+		<hardware qty="3" slot="drone bay" type="Hobgoblin II"/>
+	</fitting>
+	<fitting name="Blackbird - BCC-EWR-Blackbird">
+		<description value=""/>
+		<shipType value="Blackbird"/>
+		<hardware slot="low slot 0" type="Compulsive Signal Distortion Amplifier I"/>
+		<hardware slot="low slot 1" type="Compulsive Signal Distortion Amplifier I"/>
+		<hardware slot="med slot 0" type="Experimental 10MN Microwarpdrive I"/>
+		<hardware slot="med slot 1" type="Languid Phase Inversion ECM I"/>
+		<hardware slot="med slot 2" type="Languid Phase Inversion ECM I"/>
+		<hardware slot="med slot 3" type="Sensor Booster I"/>
+		<hardware slot="rig slot 0" type="Medium Particle Dispersion Augmentor I"/>
+		<hardware slot="rig slot 1" type="Medium Particle Dispersion Projector I"/>
+		<hardware slot="rig slot 2" type="Medium Particle Dispersion Projector I"/>
+	</fitting>
+	<fitting name="Celestis - BCC-EWR-Celestis">
+		<description value=""/>
+		<shipType value="Celestis"/>
+		<hardware slot="low slot 0" type="1600mm Reinforced Steel Plates I"/>
+		<hardware slot="low slot 1" type="Damage Control I"/>
+		<hardware slot="low slot 2" type="Energized Adaptive Nano Membrane I"/>
+		<hardware slot="low slot 3" type="Energized Adaptive Nano Membrane I"/>
+		<hardware slot="low slot 4" type="Signal Amplifier I"/>
+		<hardware slot="med slot 0" type="10MN Afterburner I"/>
+		<hardware slot="med slot 1" type="Remote Sensor Dampener I"/>
+		<hardware slot="med slot 2" type="Remote Sensor Dampener I"/>
+		<hardware slot="med slot 3" type="Remote Sensor Dampener I"/>
+		<hardware slot="med slot 4" type="Sensor Booster I"/>
+		<hardware slot="rig slot 0" type="Medium Inverted Signal Field Projector I"/>
+		<hardware slot="rig slot 1" type="Medium Particle Dispersion Projector I"/>
+		<hardware qty="5" slot="drone bay" type="Hornet EC-300"/>
+		<hardware qty="5" slot="drone bay" type="Warrior I"/>
+	</fitting>
+	<fitting name="Arbitrator - BCC-EWR-Arbitrator">
+		<description value=""/>
+		<shipType value="Arbitrator"/>
+		<hardware slot="low slot 0" type="Damage Control II"/>
+		<hardware slot="low slot 1" type="1600mm Reinforced Crystalline Carbonide Plates I"/>
+		<hardware slot="low slot 2" type="Adaptive Nano Plating II"/>
+		<hardware slot="low slot 3" type="F-90 Positional Signal Amplifier"/>
+		<hardware slot="med slot 0" type="Tracking Disruptor II"/>
+		<hardware slot="med slot 1" type="Tracking Disruptor II"/>
+		<hardware slot="med slot 2" type="Tracking Disruptor II"/>
+		<hardware slot="med slot 3" type="Experimental 10MN Microwarpdrive I"/>
+		<hardware slot="hi slot 0" type="Drone Link Augmentor I"/>
+		<hardware slot="hi slot 1" type="Drone Link Augmentor I"/>
+		<hardware slot="rig slot 0" type="Medium Tracking Diagnostic Subroutines I"/>
+		<hardware slot="rig slot 1" type="Medium Particle Dispersion Projector I"/>
+		<hardware slot="rig slot 2" type="Medium Ionic Field Projector I"/>
+		<hardware qty="5" slot="drone bay" type="Hobgoblin SD-300"/>
+		<hardware qty="5" slot="drone bay" type="Hornet EC-300"/>
+		<hardware qty="5" slot="drone bay" type="Acolyte TD-300"/>
+		<hardware qty="5" slot="drone bay" type="Hobgoblin II"/>
+		<hardware qty="5" slot="drone bay" type="Warrior II"/>
+		<hardware qty="5" slot="drone bay" type="Light Armor Maintenance Bot I"/>
+	</fitting>
+	<fitting name="Augoror - BCC-LOG-Augoror">
+		<description value=""/>
+		<shipType value="Augoror"/>
+		<hardware slot="low slot 0" type="800mm Reinforced Steel Plates I"/>
+		<hardware slot="low slot 1" type="Armor Thermic Hardener I"/>
+		<hardware slot="low slot 2" type="Armor Kinetic Hardener I"/>
+		<hardware slot="low slot 3" type="Armor Explosive Hardener I"/>
+		<hardware slot="low slot 4" type="EM Plating I"/>
+		<hardware slot="med slot 0" type="10MN Microwarpdrive I"/>
+		<hardware slot="med slot 1" type="ECCM - Radar I"/>
+		<hardware slot="med slot 2" type="Sensor Booster I"/>
+		<hardware slot="hi slot 0" type="Medium Remote Capacitor Transmitter I"/>
+		<hardware slot="hi slot 1" type="Medium Remote Capacitor Transmitter I"/>
+		<hardware slot="hi slot 2" type="Medium Remote Armor Repairer I"/>
+		<hardware slot="hi slot 3" type="Medium Remote Armor Repairer I"/>
+		<hardware slot="hi slot 4" type="Small Remote Armor Repairer I"/>
+		<hardware slot="rig slot 0" type="Medium Trimark Armor Pump I"/>
+		<hardware slot="rig slot 1" type="Medium Trimark Armor Pump I"/>
+		<hardware slot="rig slot 2" type="Medium Trimark Armor Pump I"/>
+	</fitting>
+	<fitting name="Scythe - BCC-LOG-Scythe">
+		<description value=""/>
+		<shipType value="Scythe"/>
+		<hardware slot="low slot 0" type="Capacitor Power Relay I"/>
+		<hardware slot="low slot 1" type="Capacitor Power Relay I"/>
+		<hardware slot="low slot 2" type="Capacitor Power Relay I"/>
+		<hardware slot="low slot 3" type="Capacitor Power Relay I"/>
+		<hardware slot="low slot 4" type="Damage Control I"/>
+		<hardware slot="med slot 0" type="Large Shield Extender I"/>
+		<hardware slot="med slot 1" type="Large Shield Extender I"/>
+		<hardware slot="med slot 2" type="Adaptive Invulnerability Field I"/>
+		<hardware slot="med slot 3" type="10MN Afterburner I"/>
+		<hardware slot="med slot 4" type="Sensor Booster I"/>
+		<hardware slot="hi slot 0" type="Medium Remote Shield Booster I"/>
+		<hardware slot="hi slot 1" type="Medium Remote Shield Booster I"/>
+		<hardware slot="rig slot 0" type="Medium Anti-EM Screen Reinforcer I"/>
+		<hardware slot="rig slot 1" type="Medium Anti-EM Screen Reinforcer I"/>
+		<hardware slot="rig slot 2" type="Medium Anti-Thermal Screen Reinforcer I"/>
+	</fitting>
+	<fitting name="Scythe - BCC-LOG-Scythe/A">
+		<description value=""/>
+		<shipType value="Scythe"/>
+		<hardware slot="low slot 0" type="Capacitor Power Relay I"/>
+		<hardware slot="low slot 1" type="Capacitor Power Relay I"/>
+		<hardware slot="low slot 2" type="Capacitor Power Relay I"/>
+		<hardware slot="low slot 3" type="Capacitor Power Relay I"/>
+		<hardware slot="low slot 4" type="Damage Control I"/>
+		<hardware slot="med slot 0" type="Large Shield Extender I"/>
+		<hardware slot="med slot 1" type="Large Shield Extender I"/>
+		<hardware slot="med slot 2" type="Adaptive Invulnerability Field I"/>
+		<hardware slot="med slot 3" type="10MN Afterburner I"/>
+		<hardware slot="med slot 4" type="Cap Recharger I"/>
+		<hardware slot="hi slot 0" type="Medium Remote Shield Booster I"/>
+		<hardware slot="hi slot 1" type="Medium Remote Shield Booster I"/>
+		<hardware slot="rig slot 0" type="Medium Anti-EM Screen Reinforcer I"/>
+		<hardware slot="rig slot 1" type="Medium Anti-EM Screen Reinforcer I"/>
+		<hardware slot="rig slot 2" type="Medium Anti-Thermal Screen Reinforcer I"/>
+	</fitting>
+	<fitting name="Stabber - BCC-TKL-Stabber">
+		<description value=""/>
+		<shipType value="Stabber"/>
+		<hardware slot="low slot 0" type="Damage Control I"/>
+		<hardware slot="low slot 1" type="Overdrive Injector System I"/>
+		<hardware slot="low slot 2" type="Overdrive Injector System I"/>
+		<hardware slot="low slot 3" type="Nanofiber Internal Structure I"/>
+		<hardware slot="med slot 0" type="Large Shield Extender I"/>
+		<hardware slot="med slot 1" type="Warp Disruptor I"/>
+		<hardware slot="med slot 2" type="10MN Microwarpdrive I"/>
+		<hardware slot="med slot 3" type="Warp Scrambler I"/>
+		<hardware slot="hi slot 0" type="Dual 180mm AutoCannon I"/>
+		<hardware slot="hi slot 1" type="Dual 180mm AutoCannon I"/>
+		<hardware slot="hi slot 2" type="Dual 180mm AutoCannon I"/>
+		<hardware slot="hi slot 3" type="Dual 180mm AutoCannon I"/>
+		<hardware slot="hi slot 4" type="Heavy Missile Launcher I"/>
+		<hardware slot="hi slot 5" type="Heavy Missile Launcher I"/>
+	</fitting>
+	<fitting name="Maller - BCC-TKL-Maller">
+		<description value=""/>
+		<shipType value="Maller"/>
+		<hardware slot="low slot 0" type="1600mm Reinforced Steel Plates I"/>
+		<hardware slot="low slot 1" type="1600mm Reinforced Steel Plates I"/>
+		<hardware slot="low slot 2" type="Damage Control I"/>
+		<hardware slot="low slot 3" type="Energized Adaptive Nano Membrane I"/>
+		<hardware slot="low slot 4" type="Energized Adaptive Nano Membrane I"/>
+		<hardware slot="low slot 5" type="Reactor Control Unit I"/>
+		<hardware slot="med slot 0" type="10MN Microwarpdrive I"/>
+		<hardware slot="med slot 1" type="Warp Scrambler I"/>
+		<hardware slot="med slot 2" type="Stasis Webifier I"/>
+		<hardware slot="hi slot 0" type="Small Nosferatu I"/>
+		<hardware slot="hi slot 1" type="200mm AutoCannon I"/>
+		<hardware slot="hi slot 2" type="200mm AutoCannon I"/>
+		<hardware slot="hi slot 3" type="200mm AutoCannon I"/>
+		<hardware slot="hi slot 4" type="200mm AutoCannon I"/>
+	</fitting>
+</fittings>

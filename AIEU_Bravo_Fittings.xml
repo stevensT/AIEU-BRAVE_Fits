@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<fittings>
+	<fitting name="Thrasher - BCB-CAV-Thrasher">
+		<description value=""/>
+		<shipType value="Thrasher"/>
+		<hardware slot="low slot 0" type="Gyrostabilizer I"/>
+		<hardware slot="low slot 1" type="Gyrostabilizer I"/>
+		<hardware slot="med slot 0" type="Limited 1MN Microwarpdrive I"/>
+		<hardware slot="med slot 1" type="Medium Shield Extender I"/>
+		<hardware slot="med slot 2" type="J5b Phased Prototype Warp Scrambler I"/>
+		<hardware slot="hi slot 0" type="200mm AutoCannon I"/>
+		<hardware slot="hi slot 1" type="200mm AutoCannon I"/>
+		<hardware slot="hi slot 2" type="200mm AutoCannon I"/>
+		<hardware slot="hi slot 3" type="200mm AutoCannon I"/>
+		<hardware slot="hi slot 4" type="200mm AutoCannon I"/>
+		<hardware slot="hi slot 5" type="200mm AutoCannon I"/>
+		<hardware slot="hi slot 6" type="200mm AutoCannon I"/>
+		<hardware slot="rig slot 0" type="Small Anti-Thermal Screen Reinforcer I"/>
+		<hardware slot="rig slot 1" type="Small Anti-EM Screen Reinforcer I"/>
+		<hardware slot="rig slot 2" type="Small Anti-EM Screen Reinforcer I"/>
+	</fitting>
+	<fitting name="Thrasher - BCB-CAV-Thrasher/A">
+		<description value=""/>
+		<shipType value="Thrasher"/>
+		<hardware slot="low slot 0" type="Gyrostabilizer I"/>
+		<hardware slot="low slot 1" type="Micro Auxiliary Power Core I"/>
+		<hardware slot="med slot 0" type="Experimental 1MN Afterburner I"/>
+		<hardware slot="med slot 1" type="Sensor Booster I"/>
+		<hardware slot="med slot 2" type="Tracking Computer I"/>
+		<hardware slot="hi slot 0" type="280mm Howitzer Artillery I"/>
+		<hardware slot="hi slot 1" type="280mm Howitzer Artillery I"/>
+		<hardware slot="hi slot 2" type="280mm Howitzer Artillery I"/>
+		<hardware slot="hi slot 3" type="280mm Howitzer Artillery I"/>
+		<hardware slot="hi slot 4" type="280mm Howitzer Artillery I"/>
+		<hardware slot="hi slot 5" type="280mm Howitzer Artillery I"/>
+		<hardware slot="hi slot 6" type="280mm Howitzer Artillery I"/>
+		<hardware slot="rig slot 0" type="Small Anti-EM Screen Reinforcer I"/>
+		<hardware slot="rig slot 1" type="Small Anti-EM Screen Reinforcer I"/>
+		<hardware slot="rig slot 2" type="Small Anti-Thermal Screen Reinforcer I"/>
+	</fitting>
+	<fitting name="Talwar - Talwar - 1.0">
+		<description value=""/>
+		<shipType value="Talwar"/>
+		<hardware slot="low slot 0" type="Overdrive Injector System II"/>
+		<hardware slot="low slot 1" type="Capacitor Power Relay II"/>
+		<hardware slot="low slot 2" type="Ballistic Control System II"/>
+		<hardware slot="med slot 0" type="1MN Microwarpdrive I"/>
+		<hardware slot="med slot 1" type="Sensor Booster I"/>
+		<hardware slot="med slot 2" type="Sensor Booster I"/>
+		<hardware slot="hi slot 0" type="Light Missile Launcher I"/>
+		<hardware slot="hi slot 1" type="Light Missile Launcher I"/>
+		<hardware slot="hi slot 2" type="Light Missile Launcher I"/>
+		<hardware slot="hi slot 3" type="Light Missile Launcher I"/>
+		<hardware slot="hi slot 4" type="Light Missile Launcher I"/>
+		<hardware slot="hi slot 5" type="Light Missile Launcher I"/>
+		<hardware slot="rig slot 0" type="Small Hydraulic Bay Thrusters I"/>
+		<hardware slot="rig slot 1" type="Small Hydraulic Bay Thrusters I"/>
+		<hardware slot="rig slot 2" type="Small Rocket Fuel Cache Partition I"/>
+		<hardware qty="2240" slot="cargo" type="Caldari Navy Nova Light Missile"/>
+		<hardware qty="2" slot="cargo" type="Targeting Range Script"/>
+		<hardware qty="2" slot="cargo" type="Scan Resolution Script"/>
+	</fitting>
+	<fitting name="Talwar - Talwar - 2.0">
+		<description value=""/>
+		<shipType value="Talwar"/>
+		<hardware slot="low slot 0" type="Overdrive Injector System II"/>
+		<hardware slot="low slot 1" type="Capacitor Power Relay II"/>
+		<hardware slot="low slot 2" type="Ballistic Control System II"/>
+		<hardware slot="med slot 0" type="1MN Microwarpdrive I"/>
+		<hardware slot="med slot 1" type="Sensor Booster II"/>
+		<hardware slot="med slot 2" type="Phased Muon Sensor Disruptor I"/>
+		<hardware slot="hi slot 0" type="Light Missile Launcher I"/>
+		<hardware slot="hi slot 1" type="Light Missile Launcher I"/>
+		<hardware slot="hi slot 2" type="Light Missile Launcher I"/>
+		<hardware slot="hi slot 3" type="Light Missile Launcher I"/>
+		<hardware slot="hi slot 4" type="Light Missile Launcher I"/>
+		<hardware slot="hi slot 5" type="Light Missile Launcher I"/>
+		<hardware slot="rig slot 0" type="Small Ionic Field Projector I"/>
+		<hardware slot="rig slot 1" type="Small Hydraulic Bay Thrusters I"/>
+		<hardware slot="rig slot 2" type="Small Rocket Fuel Cache Partition I"/>
+		<hardware qty="2240" slot="cargo" type="Caldari Navy Nova Light Missile"/>
+		<hardware qty="1" slot="cargo" type="Targeting Range Script"/>
+		<hardware qty="1" slot="cargo" type="Scan Resolution Script"/>
+		<hardware qty="1" slot="cargo" type="Scan Resolution Dampening Script"/>
+		<hardware qty="1" slot="cargo" type="Targeting Range Dampening Script"/>
+	</fitting>
+	<fitting name="Dragoon - BCB-CAV-Dragoon">
+		<description value=""/>
+		<shipType value="Dragoon"/>
+		<hardware slot="low slot 0" type="200mm Reinforced Rolled Tungsten Plates I"/>
+		<hardware slot="low slot 1" type="Drone Damage Amplifier I"/>
+		<hardware slot="low slot 2" type="Adaptive Nano Plating I"/>
+		<hardware slot="low slot 3" type="Adaptive Nano Plating I"/>
+		<hardware slot="med slot 0" type="1MN Microwarpdrive I"/>
+		<hardware slot="med slot 1" type="Warp Disruptor I"/>
+		<hardware slot="hi slot 0" type="Small Focused Pulse Laser I"/>
+		<hardware slot="hi slot 1" type="Small Focused Pulse Laser I"/>
+		<hardware slot="hi slot 2" type="Small Focused Pulse Laser I"/>
+		<hardware slot="hi slot 3" type="Rocket Launcher I"/>
+		<hardware slot="hi slot 4" type="Rocket Launcher I"/>
+		<hardware slot="hi slot 5" type="Rocket Launcher I"/>
+		<hardware slot="rig slot 0" type="Small Trimark Armor Pump I"/>
+		<hardware slot="rig slot 1" type="Small Trimark Armor Pump I"/>
+		<hardware slot="rig slot 2" type="Small Processor Overclocking Unit I"/>
+		<hardware qty="15" slot="drone bay" type="Warrior I"/>
+	</fitting>
+	<fitting name="Cormorant - BCB-UTL-Cormorant">
+		<description value=""/>
+		<shipType value="Cormorant"/>
+		<hardware slot="low slot 0" type="Expanded Cargohold I"/>
+		<hardware slot="low slot 1" type="Expanded Cargohold I"/>
+		<hardware slot="med slot 0" type="Cap Recharger I"/>
+		<hardware slot="med slot 1" type="Cap Recharger I"/>
+		<hardware slot="hi slot 0" type="Salvager I"/>
+		<hardware slot="hi slot 1" type="Salvager I"/>
+		<hardware slot="hi slot 2" type="Salvager I"/>
+		<hardware slot="hi slot 3" type="Salvager I"/>
+		<hardware slot="hi slot 4" type="Small Tractor Beam I"/>
+		<hardware slot="hi slot 5" type="Small Tractor Beam I"/>
+	</fitting>
+</fittings>
