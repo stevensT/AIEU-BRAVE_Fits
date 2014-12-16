@@ -266,23 +266,23 @@ Targeting Range Dampening Script x2
 
 ---
 ```
-[Vigil, Doctrine Vigil]
+[Vigil, BRAVE - Unshit Vigil]
 
-Micro Auxiliary Power Core I
-Capacitor Power Relay I
+1MN Afterburner II
+Sensor Booster II
+Cap Recharger II
+Phased Weapon Navigation Array Generation Extron
+Phased Weapon Navigation Array Generation Extron
 
-1MN Microwarpdrive I
-Medium Shield Extender I
-Stasis Webifier I
-Target Painter I
-Target Painter I
+Overdrive Injector System II
+Nanofiber Internal Structure I
 
-[Empty High slot]
-[Empty High slot]
-
-Small Ionic Field Projector I
 Small Particle Dispersion Projector I
-Small Particle Dispersion Projector I 
+Small Particle Dispersion Projector I
+Small Particle Dispersion Projector I
+
+Targeting Range Script x1
+Scan Resolution Script x1[ 
 ```
 ##### Doctrine Usage
 * Longbows
