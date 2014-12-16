@@ -2,17 +2,17 @@ Change log
 ======================
 BRAVE
 --------------
-doctrine/ships/condor.txt · Last modified: 2014/09/05 20:43 
+doctrine/ships/condor.txt · Last modified: 2014/09/05 20:43 by kiu Nakamura
 doctrine/ships/kestrel.txt · Last modified: 2014/08/29 14:33 by kiu Nakamura
 doctrine/ships/merlin.txt · Last modified: 2014/08/29 14:33 by kiu Nakamura
-doctrine/ships/burst.txt · Last modified: 2014/09/05 20:43 by kiu Nakamura
+doctrine/ships/burst.txt · Last modified: 2014/12/09 17:13 by Le Petite More
 doctrine/ships/griffin.txt · Last modified: 2014/11/06 13:55 by kiu Nakamura
-doctrine/ships/griffin.txt · Last modified: 2014/11/06 13:55 by kiu Nakamura
+Line added in error
 doctrine/ships/maulus.txt · Last modified: 2014/09/18 11:09 by kiu Nakamura
-doctrine/ships/vigil.txt · Last modified: 2014/08/29 14:34 by kiu Nakamura
+doctrine/ships/vigil.txt · Last modified: 2014/12/09 17:10 by Le Petite More
 doctrine/ships/bomber.txt · Last modified: 2014/08/29 14:35 by kiu Nakamura
 doctrine/ships/crow.txt · Last modified: 2014/08/29 14:35 by kiu Nakamura
-doctrine/ships/harpy.txt · Last modified: 2014/08/29 14:35 by kiu Nakamura
+doctrine/ships/harpy.txt · Last modified: 2014/12/09 17:00 by Le Petite More
 doctrine/ships/cormorant.txt · Last modified: 2014/08/29 14:36 by kiu Nakamura
 doctrine/ships/talwar.txt · Last modified: 2014/08/29 14:36 by kiu Nakamura
 doctrine/ships/interdictors.txt · Last modified: 2014/08/29 14:36 by kiu Nakamura
