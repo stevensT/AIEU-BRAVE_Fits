@@ -143,31 +143,6 @@ Warrior II x1
 
 ---
 ```
-[Burst, Burst Snippie T1]
-
-Damage Control I
-Capacitor Power Relay I
-Capacitor Power Relay I
-
-1MN Afterburner I
-Adaptive Invulnerability Field I
-Medium Shield Extender I
-
-Small Remote Shield Booster I
-Small Remote Shield Booster I
-Small Remote Shield Booster I
-
-Small Capacitor Control Circuit I
-Small Capacitor Control Circuit I
-Small Capacitor Control Circuit I
-
-Warrior II x1
-```
-##### Doctrine Usage
-* Snippies
-
----
-```
 [Burst, Burst Snippie T2]
 
 Damage Control II
