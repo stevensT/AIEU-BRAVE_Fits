@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<fittings>
+	<fitting name="Yield Ice">
+		<description value=""/>
+		<shipType value="Skiff"/>
+		<hardware slot="low slot 0" type="Damage Control II"/>
+		<hardware slot="low slot 1" type="Ice Harvester Upgrade II"/>
+		<hardware slot="low slot 2" type="Ice Harvester Upgrade II"/>
+		<hardware slot="med slot 0" type="Adaptive Invulnerability Field II"/>
+		<hardware slot="med slot 1" type="Adaptive Invulnerability Field II"/>
+		<hardware slot="med slot 2" type="Thermic Dissipation Amplifier II"/>
+		<hardware slot="med slot 3" type="Medium Shield Extender II"/>
+		<hardware slot="med slot 4" type="EM Ward Amplifier II"/>
+		<hardware slot="hi slot 0" type="Ice Harvester II"/>
+		<hardware slot="rig slot 0" type="Medium Polycarbon Engine Housing I"/>
+		<hardware slot="rig slot 1" type="Medium Ice Harvester Accelerator I"/>
+		<hardware qty="10" slot="drone bay" type="Hobgoblin II"/>
+		<hardware qty="5" slot="drone bay" type="Hammerhead II"/>
+	</fitting>
+</fittings>
