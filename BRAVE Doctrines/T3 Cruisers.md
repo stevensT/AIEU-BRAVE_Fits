@@ -73,3 +73,45 @@ Loki Propulsion - Fuel Catalyst
 * FatFleet
 
 ---
+```
+[Tengu, AB Tengu]
+Damage Control II
+Signal Amplifier II
+Magnetic Field Stabilizer II
+Magnetic Field Stabilizer II
+
+Large Shield Extender II
+Large Shield Extender II
+Adaptive Invulnerability Field II
+Explosive Deflection Field II
+10MN Afterburner II
+EM Ward Field II
+EM Ward Field II
+
+250mm Railgun II
+250mm Railgun II
+250mm Railgun II
+250mm Railgun II
+250mm Railgun II
+
+Medium Core Defense Field Extender II
+Medium Core Defense Field Extender II
+Medium Core Defense Field Extender II
+
+Tengu Propulsion - Fuel Catalyst
+Tengu Offensive - Magnetic Infusion Basin
+Tengu Defensive - Supplemental Screening
+Tengu Electronics - Obfuscation Manifold
+Tengu Engineering - Capacitor Regeneration Matrix
+
+Antimatter Charge M x10000
+Spike M x4000
+Caldari Navy Antimatter Charge M x4000
+Caldari Navy Thorium Charge M x4000
+Caldari Navy Tungsten Charge M x4000
+Nanite Repair Paste x100
+```
+##### Doctrine Usage
+* FatFleet
+
+---
