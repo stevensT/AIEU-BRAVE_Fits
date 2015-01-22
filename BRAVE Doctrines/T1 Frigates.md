@@ -64,8 +64,7 @@ Targeting Range Dampening Script x1
 
 ---
 ```
-[Merlin, Doctrine Merlin]
-
+[Merlin, Merlin Newbro]
 Damage Control I
 Micro Auxiliary Power Core I
 Micro Auxiliary Power Core I
@@ -82,7 +81,11 @@ Light Neutron Blaster I
 Small Anti-EM Screen Reinforcer I
 Small Hybrid Collision Accelerator I
 Small Anti-Thermal Screen Reinforcer I
+
 Antimatter Charge S x2000
+Thorium Charge S x2000
+Iron Charge S x2000
+Nanite Repair Paste x20
 ```
 ##### Doctrine Usage
 * Caracals
@@ -91,13 +94,41 @@ Antimatter Charge S x2000
 
 ---
 ```
-[Burst, Doctrine T1 Burst]
+[Merlin, Merlin Optimal]
+Damage Control II
+Micro Auxiliary Power Core II
+Micro Auxiliary Power Core II
 
+Limited 1MN Microwarpdrive I
+X5 Prototype Engine Enervator
+Warp Scrambler II
+Medium Shield Extender II
+
+Light Neutron Blaster II
+Light Neutron Blaster II
+Light Neutron Blaster II
+
+Small Anti-EM Screen Reinforcer I
+Small Hybrid Collision Accelerator II
+Small Anti-Thermal Screen Reinforcer I
+
+Void S x1000
+Null S x1000
+Caldari Navy Iron Charge S x1000
+Nanite Repair Paste x20
+```
+##### Doctrine Usage
+* Caracals
+* Merlins
+* Ugly Ducklings
+---
+```
+[Burst, Burst Newbro]
 Capacitor Power Relay I
 Capacitor Power Relay I
 Capacitor Power Relay I
 
-1MN Microwarpdrive I
+Limited 1MN Microwarpdrive I
 Cap Recharger I
 Medium Shield Extender I
 
@@ -109,7 +140,8 @@ Small Capacitor Control Circuit I
 Small Capacitor Control Circuit I
 Small Anti-EM Screen Reinforcer I
 
-Warrior II x1
+Warrior I x1
+Nanite Repair Paste x20
 ```
 ##### Doctrine Usage
 * Condors
@@ -117,25 +149,25 @@ Warrior II x1
 
 ---
 ```
-[Burst, Doctrine T2 Burst]
-
+[Burst, Burst Optimal]
 Damage Control II
 Capacitor Power Relay II
 Capacitor Power Relay II
 
 Limited 1MN Microwarpdrive I
-Medium Azeotropic Ward Salubrity I
 Cap Recharger II
+Medium Azeotropic Ward Salubrity I
 
 Small S95a Remote Shield Booster
 Small S95a Remote Shield Booster
 Small S95a Remote Shield Booster
 
-Small Capacitor Control Circuit I
-Small Capacitor Control Circuit I
-Small Anti-EM Screen Reinforcer I
+Small Capacitor Control Circuit II
+Small Capacitor Control Circuit II
+Small Anti-EM Screen Reinforcer II
 
 Warrior II x1
+Nanite Repair Paste x20
 ```
 ##### Doctrine Usage
 * Condors
@@ -143,8 +175,7 @@ Warrior II x1
 
 ---
 ```
-[Burst, Burst Snippie T2]
-
+[Burst, Burst Snippie]
 Damage Control II
 Capacitor Power Relay II
 Capacitor Power Relay II
@@ -159,33 +190,63 @@ Small S95a Remote Shield Booster
 
 Small Capacitor Control Circuit I
 Small Capacitor Control Circuit I
-Small Anti-EM Screen Reinforcer
+Small Anti-EM Screen Reinforcer II
 
 Warrior II x1
+Nanite Repair Paste x20
 ```
 ##### Doctrine Usage
 * Snippies
 
 --
 ```
-[Griffin, Doctrine Griffin]
-
+[Griffin, Griffin Newbro]
 Capacitor Power Relay I
 Signal Distortion Amplifier I
 
 1MN Microwarpdrive I
-Hypnos Ion Field ECM I
+'Hypnos' Ion Field ECM I
 Enfeebling Phase Inversion ECM I
 BZ-5 Neutralizing Spatial Destabilizer ECM
-Umbra White Noise ECM
+'Umbra' White Noise ECM
+
+[empty high slot]
+[empty high slot]
 
 Small Particle Dispersion Projector I
 Small Particle Dispersion Projector I
 Small Particle Dispersion Projector I
+
+Warrior I x1
+Nanite Repair Paste x20
 ```
 ##### Doctrine Usage
-* N/A
+* Merlins
 
+--
+```
+[Griffin, Griffin Optimal]
+Capacitor Power Relay II
+'Hypnos' Signal Distortion Amplifier I
+
+Limited 1MN Microwarpdrive I
+'Hypnos' Ion Field ECM I
+Enfeebling Phase Inversion ECM I
+BZ-5 Neutralizing Spatial Destabilizer ECM
+'Umbra' White Noise ECM
+
+[empty high slot]
+[empty high slot]
+
+Small Particle Dispersion Projector I
+Small Particle Dispersion Projector I
+Small Particle Dispersion Projector I
+
+Hornet EC-300 x1
+Nanite Repair Paste x20
+```
+##### Doctrine Usage
+* Merlins
 ---
 ```
 [Maulus, Doctrine Maulus]
@@ -216,23 +277,27 @@ Targeting Range Dampening Script x3
 
 ---
 ```
-[Maulus, Brave - 10MN Maulus]
-
-Cap Recharger I
-Remote Sensor Dampener I
-Remote Sensor Dampener I
-10MN Afterburner I
-
+[Maulus, Maulus 10MN AB]
 Damage Control I
 Micro Auxiliary Power Core I
 Micro Auxiliary Power Core I
 
-Small Ionic Field Projector I
+Supplemental Scanning CPU I
+Low Frequency Sensor Suppressor I
+Low Frequency Sensor Suppressor I
+Experimental 10MN Afterburner I
+
+Drone Link Augmentor I
+Drone Link Augmentor I
+
+Small Particle Dispersion Projector I
 Small Particle Dispersion Projector I
 Small Particle Dispersion Projector I
 
-Hornet EC-300 x4
+Warrior I x6
 
+Targeting Range Script x1
+Scan Resolution Script x1
 Scan Resolution Dampening Script x2
 Targeting Range Dampening Script x2
 ```
@@ -241,25 +306,85 @@ Targeting Range Dampening Script x2
 
 ---
 ```
-[Vigil, BRAVE - Unshit Vigil]
+[Vigil, Vigil]
 
-1MN Afterburner II
-Sensor Booster II
+Micro Auxiliary Power Core I
+Micro Auxiliary Power Core I
+
+Phased Weapon Navigation Array Generation Extron
+Phased Weapon Navigation Array Generation Extron
+Phased Weapon Navigation Array Generation Extron
 Cap Recharger II
-Phased Weapon Navigation Array Generation Extron
-Phased Weapon Navigation Array Generation Extron
+Experimental 10MN Afterburner I
 
-Overdrive Injector System II
-Nanofiber Internal Structure I
+[Empty High Slot]
+[Empty High Slot]
 
 Small Particle Dispersion Projector I
-Small Particle Dispersion Projector I
-Small Particle Dispersion Projector I
+Small Ionic Field Projector I
+Small Capacitor Control Circuit I
 
-Targeting Range Script x1
-Scan Resolution Script x1[ 
+Warrior II x1
+
+Nanite Repair Paste x15
 ```
 ##### Doctrine Usage
 * Longbows
 * Talwars
 
+---
+```
+[Vigil, Vigil]
+
+Micro Auxiliary Power Core I
+Micro Auxiliary Power Core I
+
+Phased Weapon Navigation Array Generation Extron
+Phased Weapon Navigation Array Generation Extron
+Phased Weapon Navigation Array Generation Extron
+Cap Recharger II
+Experimental 10MN Afterburner I
+
+[Empty High Slot]
+[Empty High Slot]
+
+Small Particle Dispersion Projector I
+Small Ionic Field Projector I
+Small Capacitor Control Circuit I
+
+Warrior II x1
+
+Nanite Repair Paste x15
+```
+##### Doctrine Usage
+* Longbows
+* Talwars
+---
+```
+[Crucifier, Crucifier 10MN AB]
+Damage Control I
+Micro Auxiliary Power Core I
+Micro Auxiliary Power Core I
+
+DDO Photometry Tracking Disruptor I
+DDO Photometry Tracking Disruptor I
+Experimental 10MN Afterburner I
+Supplemental Scanning CPU I
+
+Drone Link Augmentor I
+Drone Link Augmentor I
+
+Small Ionic Field Projector I
+Small Particle Dispersion Projector I
+Small Particle Dispersion Projector I
+
+Warrior I x9
+
+Optimal Range Disruption Script x2
+Tracking Speed Disruption Script x2
+Targeting Range Script x1
+Scan Resolution Script x1
+```
+##### Doctrine Usage
+* Vexors
+* Derptars
