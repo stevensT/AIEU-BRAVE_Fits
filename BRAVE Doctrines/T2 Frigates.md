@@ -2,6 +2,7 @@
 #### Overview
 ###### Here you will find the current BRAVE Doctrine T2 Frigates fits.
 ---
+#### Crow T1 Point
 ```
 [Crow, Crow T1 Point]
 
@@ -25,10 +26,11 @@ Caldari Navy Scourge Light Missile x4000
 Targeting Range Script x1
 Scan Resolution Script x1
 ```
-##### Doctrine Usage
+Doctrine Usage
 * Murder Fleet
 
 ---
+#### Crow T2 Point
 ```
 [Crow, Crow T2 Point]
 
@@ -52,10 +54,11 @@ Caldari Navy Scourge Light Missile x4000
 Targeting Range Script x1
 Scan Resolution Script x1
 ```
-##### Doctrine Usage
+Doctrine Usage
 * Murder Fleet
 
 ---
+##### Crow T1 Scram
 ```
 [Crow, Crow T1 Scram]
 
@@ -79,10 +82,11 @@ Caldari Navy Scourge Light Missile x4000
 Targeting Range Script x1
 Scan Resolution Script x1
 ```
-##### Doctrine Usage
+Doctrine Usage
 * Murder Fleet
 
 ---
+##### Crow T2 Scram
 ```
 [Crow, Crow T2 Scram]
 
@@ -106,10 +110,11 @@ Caldari Navy Scourge Light Missile x4000
 Targeting Range Script x1
 Scan Resolution Script x1
 ```
-##### Doctrine Usage
+Doctrine Usage
 * Murder Fleet
 
 ---
+##### Harpy - T1 Guns - Snippy
 ```
 [Harpy, Harpy - T1 Guns - Snippy]
 
@@ -133,10 +138,11 @@ Small Core Defense Field Extender I
 Caldari Navy Iron Charge S x4000
 Caldari Navy Antimatter Charge S x2000
 ```
-##### Doctrine Usage
+Doctrine Usage
 * Snippies
 
 ---
+##### Harpy T2 Guns
 ```
 [Harpy, Harpy T2 Guns]
 
@@ -161,10 +167,11 @@ Small Processor Overclocking Unit I
 Spike S x4000
 Caldari Navy Antimatter Charge S x2000
 ```
-##### Doctrine Usage
+Doctrine Usage
 * Snippies
 
 ---
+##### Hound Bomber
 ```
 [Hound, Hound Bomber]
 
@@ -187,10 +194,11 @@ Small Polycarbon Engine Housing I
 
 Caldari Navy Nova Torpedo x1000
 ```
-##### Doctrine Usage
+Doctrine Usage
 * Bombers
 
 ---
+##### Manticore Bomber
 ```
 [Manticore, Manticore Bomber]
 
@@ -213,10 +221,11 @@ Small Targeting System Subcontroller I
 
 Caldari Navy Scourge Torpedo x1000
 ```
-##### Doctrine Usage
+Doctrine Usage
 * Bombers
 
 ---
+##### Nemesis Bomber
 ```
 [Nemesis, Nemesis Bomber]
 
@@ -239,10 +248,11 @@ Small Ancillary Current Router I
 
 Caldari Navy Inferno Torpedo x1000
 ```
-##### Doctrine Usage
+Doctrine Usage
 * Bombers
 
 ---
+##### Purifier Bomber
 ```
 [Purifier, Purifier Bomber]
 
@@ -265,10 +275,11 @@ Small Polycarbon Engine Housing I
 
 Caldari Navy Mjolnir Torpedo x1000
 ```
-##### Doctrine Usage
+Doctrine Usage
 * Bombers
 
 ---
+##### Hound Hammer
 ```
 [Hound, Hound Hammer]
 
@@ -291,10 +302,11 @@ Small Low Friction Nozzle Joints I
 
 Caldari Navy Nova Torpedo x1000
 ```
-##### Doctrine Usage
+Doctrine Usage
 * Bombers
 
 ---
+##### Manticore Hammer
 ```
 [Manticore, Manticore Hammer]
 
@@ -317,10 +329,11 @@ Small Ancillary Current Router I
 
 Caldari Navy Scourge Torpedo x1000
 ```
-##### Doctrine Usage
+Doctrine Usage
 * Bombers
 
 ---
+##### Nemesis Hammer
 ```
 [Nemesis, Nemesis Hammer]
 
@@ -343,10 +356,11 @@ Small Ancillary Current Router I
 
 Caldari Navy Inferno Torpedo x1000
 ```
-##### Doctrine Usage
+Doctrine Usage
 * Bombers
 
 ---
+##### Purifier Hammer
 ```
 [Purifier, Purifier Hammer]
 
@@ -369,10 +383,11 @@ Small Polycarbon Engine Housing I
 
 Caldari Navy Mjolnir Torpedo x1000
 ```
-##### Doctrine Usage
+Doctrine Usage
 * Bombers
 
 ---
+##### Hound Siege
 ```
 [Hound, Hound Siege]
 
@@ -396,10 +411,11 @@ Small Polycarbon Engine Housing I
 Nova Torpedo x1500
 Caldari Navy Nova Torpedo x250
 ```
-##### Doctrine Usage
+Doctrine Usage
 * Bombers
 
 ---
+##### Manticore Siege
 ```
 [Manticore, Manticore Siege]
 
@@ -423,10 +439,11 @@ Small Ancillary Current Router I
 Scourge Torpedo x1500
 Caldari Navy Scourge Torpedo x250
 ```
-##### Doctrine Usage
+Doctrine Usage
 * Bombers
 
 ---
+##### Nemesis Siege
 ```
 [Nemesis, Nemesis Siege]
 
@@ -450,10 +467,11 @@ Small Ancillary Current Router I
 Inferno Torpedo x1500
 Caldari Navy Inferno Torpedo x250
 ```
-##### Doctrine Usage
+Doctrine Usage
 * Bombers
 
 ---
+##### Purifier Siege
 ```
 [Purifier, Purifier Siege]
 
@@ -477,6 +495,6 @@ Small Polycarbon Engine Housing I
 Mjolnir Torpedo x1500
 Caldari Navy Mjolnir Torpedo x250
 ```
-##### Doctrine Usage
+Doctrine Usage
 * Bombers
 
