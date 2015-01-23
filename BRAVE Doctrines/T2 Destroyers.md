@@ -32,6 +32,8 @@ Warp Disrupt Probe x80
 * Freedom Fleet
 * Hellhounds
 * Ugly Ducklings
+* Vexors
+* Derptars
 
 ---
 ```
@@ -64,6 +66,8 @@ Caldari Navy Scourge Light Missile x1000
 * Freedom Fleet
 * Hellhounds
 * Ugly Ducklings
+* Vexors
+* Derptars
 
 ---
 ```
@@ -96,6 +100,8 @@ Warp Disrupt Probe x80
 * Freedom Fleet
 * Hellhounds
 * Ugly Ducklings
+* Vexors
+* Derptars
 
 ---
 ```
@@ -128,5 +134,7 @@ Warp Disrupt Probe x80
 * Freedom Fleet
 * Hellhounds
 * Ugly Ducklings
+* Vexors
+* Derptars
 
 ---

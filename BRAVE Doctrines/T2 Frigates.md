@@ -111,6 +111,33 @@ Scan Resolution Script x1
 
 ---
 ```
+[Harpy, Harpy - T1 Guns - Snippy]
+
+Damage Control II
+Magnetic Field Stabilizer II
+Tracking Enhancer II
+
+Adaptive Invulnerability Field II
+F-90 Positional Sensor Subroutines
+1MN Afterburner II
+Upgraded EM Ward Amplifier I
+
+150mm Prototype Gauss Gun
+150mm Prototype Gauss Gun
+150mm Prototype Gauss Gun
+150mm Prototype Gauss Gun
+
+Small Core Defense Field Extender I
+Small Core Defense Field Extender I
+
+Caldari Navy Iron Charge S x4000
+Caldari Navy Antimatter Charge S x2000
+```
+##### Doctrine Usage
+* Snippies
+
+---
+```
 [Harpy, Harpy T2 Guns]
 
 Pseudoelectron Containment Field I

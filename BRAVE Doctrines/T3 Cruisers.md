@@ -38,6 +38,40 @@ Legion Electronics - Dissolution Sequencer
 
 ---
 ```
+[Legion, booster 4l]
+Co-Processor II
+Co-Processor II
+Co-Processor II
+RADAR Backup Array II
+
+Command Processor I
+Command Processor I
+Command Processor I
+Conjunctive Radar ECCM Scanning Array I
+Conjunctive Radar ECCM Scanning Array I
+
+Siege Warfare Link - Shield Harmonizing II
+Skirmish Warfare Link - Evasive Maneuvers II
+Skirmish Warfare Link - Interdiction Maneuvers II
+Skirmish Warfare Link - Rapid Deployment II
+Covert Ops Cloaking Device II
+[empty high slot]
+
+Medium Processor Overclocking Unit I
+Medium Processor Overclocking Unit I
+Medium Low Friction Nozzle Joints I
+
+Legion Defensive - Warfare Processor
+Legion Electronics - Dissolution Sequencer
+Legion Engineering - Capacitor Regeneration Matrix
+Legion Offensive - Covert Reconfiguration
+Legion Propulsion - Interdiction Nullifier
+```
+##### Doctrine Usage
+* Booster
+
+---
+```
 [Loki, FatFleet Loki Webs]
 
 1600mm Reinforced Steel Plates II
@@ -74,44 +108,103 @@ Loki Propulsion - Fuel Catalyst
 
 ---
 ```
-[Tengu, AB Tengu]
-Damage Control II
-Signal Amplifier II
-Magnetic Field Stabilizer II
-Magnetic Field Stabilizer II
+[Loki, booster 4l]
+Co-Processor II
+Co-Processor II
+Co-Processor II
+Co-Processor II
 
-Large Shield Extender II
-Large Shield Extender II
-Adaptive Invulnerability Field II
-Explosive Deflection Field II
-10MN Afterburner II
-EM Ward Field II
-EM Ward Field II
+Command Processor I
+Command Processor I
+Command Processor I
+Conjunctive Ladar ECCM Scanning Array I
+Conjunctive Ladar ECCM Scanning Array I
 
-250mm Railgun II
-250mm Railgun II
-250mm Railgun II
-250mm Railgun II
-250mm Railgun II
+Siege Warfare Link - Shield Harmonizing II
+Skirmish Warfare Link - Evasive Maneuvers II
+Skirmish Warfare Link - Interdiction Maneuvers II
+Skirmish Warfare Link - Rapid Deployment II
+Covert Ops Cloaking Device II
+[empty high slot]
 
-Medium Core Defense Field Extender II
-Medium Core Defense Field Extender II
-Medium Core Defense Field Extender II
+Medium Processor Overclocking Unit I
+Medium Processor Overclocking Unit I
+Medium Low Friction Nozzle Joints I
 
-Tengu Propulsion - Fuel Catalyst
-Tengu Offensive - Magnetic Infusion Basin
-Tengu Defensive - Supplemental Screening
-Tengu Electronics - Obfuscation Manifold
-Tengu Engineering - Capacitor Regeneration Matrix
-
-Antimatter Charge M x10000
-Spike M x4000
-Caldari Navy Antimatter Charge M x4000
-Caldari Navy Thorium Charge M x4000
-Caldari Navy Tungsten Charge M x4000
-Nanite Repair Paste x100
+Loki Defensive - Warfare Processor
+Loki Electronics - Dissolution Sequencer
+Loki Engineering - Capacitor Regeneration Matrix
+Loki Offensive - Covert Reconfiguration
+Loki Propulsion - Interdiction Nullifier
 ```
 ##### Doctrine Usage
-* FatFleet
+* Booster
+
+---
+```
+[Proteus, booster 4l]
+Co-Processor II
+Co-Processor II
+Co-Processor II
+Magnetometric Backup Array II
+Magnetometric Backup Array II
+
+Command Processor I
+Command Processor I
+Command Processor I
+Conjunctive Magnetometric ECCM Scanning Array I
+
+Siege Warfare Link - Shield Harmonizing II
+Skirmish Warfare Link - Evasive Maneuvers II
+Skirmish Warfare Link - Interdiction Maneuvers II
+Skirmish Warfare Link - Rapid Deployment II
+Covert Ops Cloaking Device II
+[empty high slot]
+
+Medium Processor Overclocking Unit I
+Medium Processor Overclocking Unit I
+Medium Low Friction Nozzle Joints I
+
+Proteus Defensive - Warfare Processor
+Proteus Electronics - Dissolution Sequencer
+Proteus Engineering - Capacitor Regeneration Matrix
+Proteus Offensive - Covert Reconfiguration
+Proteus Propulsion - Interdiction Nullifier
+```
+##### Doctrine Usage
+* Booster
+---
+```
+[Tengu, offgrid booster]
+Dread Guristas Co-Processor
+Dread Guristas Co-Processor
+Gravimetric Backup Array II
+Gravimetric Backup Array II
+
+Command Processor I
+Command Processor I
+Command Processor I
+Command Processor I
+Conjunctive Gravimetric ECCM Scanning Array I
+
+Information Warfare Link - Sensor Integrity II
+Siege Warfare Link - Shield Harmonizing II
+Skirmish Warfare Link - Evasive Maneuvers II
+Skirmish Warfare Link - Interdiction Maneuvers II
+Skirmish Warfare Link - Rapid Deployment II
+Covert Ops Cloaking Device II
+
+Medium Processor Overclocking Unit I
+Medium Processor Overclocking Unit I
+Medium Low Friction Nozzle Joints II
+
+Tengu Defensive - Warfare Processor
+Tengu Electronics - Dissolution Sequencer
+Tengu Engineering - Capacitor Regeneration Matrix
+Tengu Offensive - Covert Reconfiguration
+Tengu Propulsion - Interdiction Nullifier
+```
+##### Doctrine Usage
+* Booster
 
 ---
