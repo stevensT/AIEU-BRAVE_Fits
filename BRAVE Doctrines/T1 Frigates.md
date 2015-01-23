@@ -3,6 +3,7 @@
 #### Overview
 ###### Here you will find the current BRAVE Doctrine Frigates fits.
 ---
+##### Doctrine Condor
 ```
 [Condor, Doctrine Condor]
 
@@ -27,10 +28,12 @@ Caldari Navy Scourge Light Missile x2000
 Scan Resolution Dampening Script x1
 Targeting Range Dampening Script x1
 ```
-##### Doctrine Usage
+
+Doctrine Usage
 * Condors
 
 ---
+##### Doctrine Kestrel
 ```
 [Kestrel, Doctrine Kestrel]
 
@@ -59,10 +62,12 @@ Scan Resolution Script x1
 Scan Resolution Dampening Script x1
 Targeting Range Dampening Script x1
 ```
-##### Doctrine Usage
+
+Doctrine Usage
 * Kestrels
 
 ---
+##### Merlin Newbro
 ```
 [Merlin, Merlin Newbro]
 Damage Control I
@@ -87,12 +92,14 @@ Thorium Charge S x2000
 Iron Charge S x2000
 Nanite Repair Paste x20
 ```
-##### Doctrine Usage
+
+Doctrine Usage
 * Caracals
 * Merlins
 * Ugly Ducklings
 
 ---
+##### Merlin Optimal
 ```
 [Merlin, Merlin Optimal]
 Damage Control II
@@ -117,11 +124,14 @@ Null S x1000
 Caldari Navy Iron Charge S x1000
 Nanite Repair Paste x20
 ```
-##### Doctrine Usage
+
+Doctrine Usage
 * Caracals
 * Merlins
 * Ugly Ducklings
+
 ---
+##### Burst Newbro
 ```
 [Burst, Burst Newbro]
 Capacitor Power Relay I
@@ -143,11 +153,13 @@ Small Anti-EM Screen Reinforcer I
 Warrior I x1
 Nanite Repair Paste x20
 ```
-##### Doctrine Usage
+
+Doctrine Usage
 * Condors
 * Merlins
 
 ---
+##### Burst Optimal
 ```
 [Burst, Burst Optimal]
 Damage Control II
@@ -169,11 +181,13 @@ Small Anti-EM Screen Reinforcer II
 Warrior II x1
 Nanite Repair Paste x20
 ```
-##### Doctrine Usage
+
+Doctrine Usage
 * Condors
 * Merlins
 
 ---
+##### Burst Snippie
 ```
 [Burst, Burst Snippie]
 Damage Control II
@@ -195,10 +209,12 @@ Small Anti-EM Screen Reinforcer II
 Warrior II x1
 Nanite Repair Paste x20
 ```
-##### Doctrine Usage
+
+Doctrine Usage
 * Snippies
 
---
+---
+##### Griffin Newbro
 ```
 [Griffin, Griffin Newbro]
 Capacitor Power Relay I
@@ -220,10 +236,12 @@ Small Particle Dispersion Projector I
 Warrior I x1
 Nanite Repair Paste x20
 ```
-##### Doctrine Usage
+
+Doctrine Usage
 * Merlins
 
---
+---
+##### Griffin Optimal
 ```
 [Griffin, Griffin Optimal]
 Capacitor Power Relay II
@@ -245,9 +263,12 @@ Small Particle Dispersion Projector I
 Hornet EC-300 x1
 Nanite Repair Paste x20
 ```
-##### Doctrine Usage
+
+Doctrine Usage
 * Merlins
+
 ---
+##### Doctrine Maulus
 ```
 [Maulus, Doctrine Maulus]
 
@@ -270,12 +291,14 @@ Small Particle Dispersion Projector I
 Scan Resolution Dampening Script x3
 Targeting Range Dampening Script x3 
 ```
-##### Doctrine Usage
+
+Doctrine Usage
 * Caracals
 * Snippies
 * Ugly Ducklings
 
 ---
+##### Maulus 10MN AB
 ```
 [Maulus, Maulus 10MN AB]
 Damage Control I
@@ -301,10 +324,12 @@ Scan Resolution Script x1
 Scan Resolution Dampening Script x2
 Targeting Range Dampening Script x2
 ```
-##### Doctrine Usage
+
+Doctrine Usage
 * N/A
 
 ---
+##### Vigil
 ```
 [Vigil, Vigil]
 
@@ -328,38 +353,13 @@ Warrior II x1
 
 Nanite Repair Paste x15
 ```
-##### Doctrine Usage
+
+Doctrine Usage
 * Longbows
 * Talwars
 
 ---
-```
-[Vigil, Vigil]
-
-Micro Auxiliary Power Core I
-Micro Auxiliary Power Core I
-
-Phased Weapon Navigation Array Generation Extron
-Phased Weapon Navigation Array Generation Extron
-Phased Weapon Navigation Array Generation Extron
-Cap Recharger II
-Experimental 10MN Afterburner I
-
-[Empty High Slot]
-[Empty High Slot]
-
-Small Particle Dispersion Projector I
-Small Ionic Field Projector I
-Small Capacitor Control Circuit I
-
-Warrior II x1
-
-Nanite Repair Paste x15
-```
-##### Doctrine Usage
-* Longbows
-* Talwars
----
+##### Crucifier 10MN AB
 ```
 [Crucifier, Crucifier 10MN AB]
 Damage Control I
@@ -385,6 +385,7 @@ Tracking Speed Disruption Script x2
 Targeting Range Script x1
 Scan Resolution Script x1
 ```
-##### Doctrine Usage
+
+Doctrine Usage
 * Vexors
 * Derptars

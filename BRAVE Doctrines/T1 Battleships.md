@@ -2,6 +2,7 @@
 #### Overview
 ###### Here you will find the current BRAVE Doctrine T1 Battleship fits.
 ---
+##### FatFleet Armageddon
 ```
 [Armageddon, FatFleet Armageddon ]
 
@@ -32,10 +33,11 @@ Large Trimark Armor Pump I
 Bouncer I x14
 Warrior II x5
 ```
-##### Doctrine Usage
+Doctrine Usage
 * FatFleet
 
 ---
+##### FatFleet Dominix
 ```
 [Dominix, FatFleet Dominix]
 
@@ -68,7 +70,7 @@ Bouncer I x9
 Curator I x5
 Warrior II x5
 ```
-##### Doctrine Usage
+Doctrine Usage
 * FatFleet
 
 ---

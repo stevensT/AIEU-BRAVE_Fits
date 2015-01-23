@@ -1,7 +1,9 @@
 # T1 Destroyers
 #### Overview
-###### Here you will find the current BRAVE Doctrine T1 Destroyers fits.
+##### Here you will find the current BRAVE Doctrine T1 Destroyers fits.
 ---
+
+#### Cormorant Optimal
 ```
 [Cormorant, Cormorant Optimal]
 
@@ -29,11 +31,12 @@ Spike S x3000
 Targeting Range Script x2
 Scan Resolution Script x2
 ```
-##### Doctrine Usage
+Doctrine Usage
 * Longbows
 * Ugly Ducklings
 
 ---
+#### Cormorant Newbie
 ```
 [Cormorant, Cormorant Newbie]
 
@@ -61,11 +64,12 @@ Spike S x3000
 Targeting Range Script x2
 Scan Resolution Script x2
 ```
-##### Doctrine Usage
+Doctrine Usage
 * Longbows
 * Ugly Ducklings
 
 ---
+#### Talwar 1.0
 ```
 [Talwar, Talwar 1.0]
 
@@ -93,10 +97,11 @@ Caldari Navy Nova Light Missile x2000
 Targeting Range Script x2
 Scan Resolution Script x2
 ```
-##### Doctrine Usage
+Doctrine Usage
 * Talwar
 
 ---
+#### Talwar 2.0
 ```
 [Talwar, Talwar 2.0]
 
@@ -126,7 +131,7 @@ Scan Resolution Script x1
 Scan Resolution Dampening Script x3
 Targeting Range Dampening Script x3 
 ```
-##### Doctrine Usage
+Doctrine Usage
 * Talwar
 
 ---

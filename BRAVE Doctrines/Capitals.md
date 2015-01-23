@@ -2,6 +2,7 @@
 #### Overview
 ###### Here you will find the current BRAVE Doctrine Capital fits.
 ---
+#### Brave Slowcat
 ```
 [Archon, Brave Slowcat]
 
@@ -42,10 +43,11 @@ Warrior II x50
 Tracking Speed Script x2
 Optimal Range Script x2
 ```
-##### Doctrine Usage
+Doctrine Usage
 * 
 
 ---
+#### Brave Slowcat
 ```
 [Archon, Brave Slowcat]
 Armor Thermic Hardener II
@@ -85,10 +87,11 @@ Warrior II x50
 Tracking Speed Script x2
 Optimal Range Script x2
 ```
-##### Doctrine Usage
+Doctrine Usage
 * 
 
 ---
+#### Brave Naglfar
 ```
 [Naglfar, Brave Naglfar]
 Damage Control II
@@ -122,8 +125,9 @@ Tracking Speed Script x2
 Targeting Range Script x2
 Scan Resolution Script x2
 ```
-##### Notes:
+Notes:
 * Extra Cargo
+```
 -- LOW SLOT --
 6x Capacitor Power Relay II
 3x Armor EM Hardener II
@@ -148,8 +152,9 @@ Scan Resolution Script x2
 2x Mobile Depot
 Bring at least 1k-2k rounds of all important ammo types
 Bring at least five cycles of siege
-
+```
 ---
+#### Brave Moros
 ```
 [Moros, Brave Moros]
 Damage Control II
@@ -184,8 +189,9 @@ Tracking Speed Script x2
 Targeting Range Script x1
 Scan Resolution Script x1
 ```
-##### Notes:
+Notes:
 * Extra Cargo
+```
 -- LOW SLOT --
 7x Capacitor Power Relay II
 3x Armor EM Hardener II
@@ -210,8 +216,9 @@ Scan Resolution Script x1
 2x Mobile Depot
 Bring at least 1k-2k rounds of all important ammo types
 Bring at least five cycles of siege
-
+```
 ---
+#### Brave Phoenix
 ```
 [Phoenix, Brave Phoenix]
 Damage Control II
@@ -244,8 +251,9 @@ Navy Cap Booster 800 x6
 Scan Resolution Script x1
 Targeting Range Script x1
 ```
-##### Notes:
+Notes:
 * Extra Cargo
+```
 -- LOW SLOT --
 4x Capacitor Power Relay II
 4x Power Diagnostic System II
@@ -270,8 +278,9 @@ Targeting Range Script x1
 2x Mobile Depot
 Bring at least 1k-2k rounds of all important ammo types
 Bring at least five cycles of siege
-
+``` 
 ---
+#### Brave Revelation
 ```
 [Revelation, Brave Revelation]
 Damage Control II
@@ -307,8 +316,9 @@ Scan Resolution Script x1
 Optimal Range Script x1
 Tracking Speed Script x1
 ```
-##### Notes:
+Notes:
 * Extra Cargo
+```
 -- LOW SLOT --
 8x Capacitor Power Relay II
 3x Armor EM Hardener II
@@ -333,5 +343,5 @@ Tracking Speed Script x1
 2x Mobile Depot
 Bring at least two sets of all important ammo types
 Bring at least five cycles of siege
-
+```
 ---
