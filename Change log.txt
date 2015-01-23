@@ -41,6 +41,7 @@ doctrine/ships/archon.txt · Last modified: 2015/01/22 21:10 by kiu Nakamura
 doctrine/ships/naglfar.txt · Last modified: 2015/01/22 21:10 by kiu Nakamura
 doctrine/ships/moros.txt · Last modified: 2015/01/22 21:10 by kiu Nakamura
 doctrine/ships/phoenix.txt · Last modified: 2015/01/22 21:10 by kiu Nakamura
+doctrine/ships/revelation.txt · Last modified: 2015/01/22 21:10 by kiu Nakamura
 
 
 AIEU
