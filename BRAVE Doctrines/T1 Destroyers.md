@@ -5,14 +5,13 @@
 
 #### Cormorant Optimal
 ```
-[Cormorant, Cormorant Optimal]
-
+[Cormorant, MWD Optimal - AWU5]
 Magnetic Field Stabilizer II
 Magnetic Field Stabilizer II
 
+Sensor Booster II
+Sensor Booster II
 Limited 1MN Microwarpdrive I
-F-90 Positional Sensor Subroutines
-F-90 Positional Sensor Subroutines
 
 150mm Railgun II
 150mm Railgun II
@@ -21,15 +20,17 @@ F-90 Positional Sensor Subroutines
 150mm Railgun II
 150mm Railgun II
 150mm Railgun II
-[Empty High slot]
 
+Small Hybrid Locus Coordinator I
+Small Hybrid Locus Coordinator I
 Small Ancillary Current Router I
-Small Hybrid Locus Coordinator I
-Small Hybrid Locus Coordinator I
 
-Spike S x3000
+Caldari Navy Antimatter Charge S x2000
+Spike S x4000
+Caldari Navy Iron Charge S x1000
 Targeting Range Script x2
 Scan Resolution Script x2
+Nanite Repair Paste x35
 ```
 Doctrine Usage
 * Longbows
@@ -38,14 +39,13 @@ Doctrine Usage
 ---
 #### Cormorant Newbie
 ```
-[Cormorant, Cormorant Newbie]
-
-Power Diagnostic System II
+[Cormorant, MWD Newbro - AWU4]
+Mark I Compact Power Diagnostic System
 Magnetic Field Stabilizer II
 
+Sensor Booster II
+Sensor Booster II
 Limited 1MN Microwarpdrive I
-F-90 Positional Sensor Subroutines
-F-90 Positional Sensor Subroutines
 
 150mm Railgun II
 150mm Railgun II
@@ -54,15 +54,19 @@ F-90 Positional Sensor Subroutines
 150mm Railgun II
 150mm Railgun II
 150mm Railgun II
-[Empty High slot]
+'Limos' Rocket Launcher I
 
+Small Hybrid Locus Coordinator I
+Small Hybrid Locus Coordinator I
 Small Ancillary Current Router I
-Small Hybrid Locus Coordinator I
-Small Hybrid Locus Coordinator I
 
-Spike S x3000
+Caldari Navy Antimatter Charge S x2000
+Spike S x4000
+Caldari Navy Iron Charge S x900
 Targeting Range Script x2
 Scan Resolution Script x2
+Caldari Navy Mjolnir Rocket x260
+Nanite Repair Paste x35
 ```
 Doctrine Usage
 * Longbows

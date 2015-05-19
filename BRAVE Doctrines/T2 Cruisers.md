@@ -3,7 +3,7 @@
 ###### Here you will find the current BRAVE Doctrine T2 Cruisers fits.
 ---
 ```
-[Cerberus, Cerberus RLM]
+[Cerberus, Cerberus RLML]
 
 Damage Control II
 Ballistic Control System II
@@ -27,7 +27,7 @@ Medium Hydraulic Bay Thrusters I
 Medium Core Defense Field Extender I
 
 
-Warrior II x3
+Acolyte II x3
 Scourge Light Missile x5000
 Caldari Navy Scourge Light Missile x3000
 Caldari Navy Inferno Light Missile x3000
@@ -39,7 +39,7 @@ Caldari Navy Mjolnir Light Missile x3000
 
 ---
 ```
-[Cerberus, Cerberus Heavy]
+[Cerberus, Cerberus HML]
 
 Damage Control II
 Ballistic Control System II
@@ -63,7 +63,7 @@ Medium Hydraulic Bay Thrusters I
 Medium Core Defense Field Extender I
 
 
-Warrior II x3
+Acolyte II x3
 Scourge Heavy Missile x5000
 Caldari Navy Mjolnir Heavy Missile x3000
 Caldari Navy Scourge Heavy Missile x3000
@@ -76,6 +76,7 @@ Caldari Navy Nova Heavy Missile x3000
 ---
 ```
 [Eagle, Eagle]
+
 Power Diagnostic System II
 Damage Control II
 Magnetic Field Stabilizer II
@@ -94,13 +95,14 @@ Large Shield Extender II
 250mm Railgun II
 250mm Railgun II
 
-Medium Core Defense Field Extender I
-Medium Core Defense Field Extender I
+Medium Core Defense Field Extender II
+Medium Core Defense Field Extender II
+
 
 Antimatter Charge M x5000
-Spike M x3000
-Caldari Navy Antimatter Charge M x3000
-Caldari Navy Thorium Charge M x3000
+Spike M x5000
+Caldari Navy Antimatter Charge M x5000
+Caldari Navy Thorium Charge M x5000
 Nanite Repair Paste x50
 ```
 ##### Doctrine Usage
@@ -129,7 +131,7 @@ Large 'Solace' Remote Armor Repairer
 Medium Ancillary Current Router I
 Medium Ancillary Current Router I
 
-Warrior II x5
+Acolyte II x5
 Nanite Repair Paste x50
 ```
 ##### Doctrine Usage
@@ -158,7 +160,7 @@ Medium 'Regard' Remote Capacitor Transmitter
 Medium Trimark Armor Pump II
 Medium Trimark Armor Pump II
 
-Warrior II x5
+Acolyte II x5
 Nanite Repair Paste x50
 ```
 ##### Doctrine Usage
@@ -191,7 +193,7 @@ Medium Core Defense Field Extender II
 
 
 Hornet EC-300 x3
-Warrior II x5
+Acolyte x5
 Nanite Repair Paste x50
 ```
 ##### Doctrine Usage
@@ -224,7 +226,7 @@ Medium Core Defense Field Extender II
 
 
 Hornet EC-300 x3
-Warrior II x5
+Acolyte II x5
 Nanite Repair Paste x50
 ```
 ##### Doctrine Usage
@@ -344,8 +346,8 @@ Medium Core Defense Field Extender II
 Medium Core Defense Field Extender II
 
 
+Acolyte II x5
 Hornet EC-300 x5
-Warrior II x5
 Nanite Repair Paste x50
 ```
 ##### Doctrine Usage
@@ -377,7 +379,7 @@ Medium Core Defense Field Extender II
 Medium Core Defense Field Extender II
 
 
-Warrior II x5
+Acolyte II x5
 Hornet EC-300 x5
 Nanite Repair Paste x50
 ```
@@ -438,7 +440,7 @@ Large 'Solace' Remote Armor Repairer
 Medium Ancillary Current Router I
 Medium Capacitor Control Circuit I
 
-Warrior II x5
+Acolyte II x5
 Light Armor Maintenance Bot I x5
 Nanite Repair Paste x50
 ```

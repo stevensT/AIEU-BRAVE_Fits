@@ -114,58 +114,32 @@ Doctrine Usage
 * Murder Fleet
 
 ---
-##### Harpy - T1 Guns - Snippy
-```
-[Harpy, Harpy - T1 Guns - Snippy]
-
-Damage Control II
-Magnetic Field Stabilizer II
-Tracking Enhancer II
-
-Adaptive Invulnerability Field II
-F-90 Positional Sensor Subroutines
-1MN Afterburner II
-Upgraded EM Ward Amplifier I
-
-150mm Prototype Gauss Gun
-150mm Prototype Gauss Gun
-150mm Prototype Gauss Gun
-150mm Prototype Gauss Gun
-
-Small Core Defense Field Extender I
-Small Core Defense Field Extender I
-
-Caldari Navy Iron Charge S x4000
-Caldari Navy Antimatter Charge S x2000
-```
-Doctrine Usage
-* Snippies
-
----
 ##### Harpy T2 Guns
 ```
-[Harpy, Harpy T2 Guns]
-
 Pseudoelectron Containment Field I
 Magnetic Field Stabilizer II
 Magnetic Field Stabilizer II
-
+ 
 1MN Afterburner II
 Adaptive Invulnerability Field II
-F-90 Positional Sensor Subroutines, Scan Resolution Script
+F-90 Positional Sensor Subroutines
 Upgraded EM Ward Amplifier I
-
-150mm Railgun II, Spike S
-150mm Railgun II, Spike S
-150mm Railgun II, Spike S
-150mm Railgun II, Spike S
-[Empty High slot]
-
-Small Core Defense Field Extender I
+ 
+150mm Railgun II, Antimatter Charge S
+150mm Railgun II, Antimatter Charge S
+150mm Railgun II, Antimatter Charge S
+150mm Railgun II, Antimatter Charge S
+[empty high slot]
+ 
+Small Core Defense Field Extender II
 Small Processor Overclocking Unit I
-
-Spike S x4000
+ 
 Caldari Navy Antimatter Charge S x2000
+Spike S x2000
+Caldari Navy Thorium Charge S x2000
+Targeting Range Script x1
+Scan Resolution Script x1
+Nanite Repair Paste x50
 ```
 Doctrine Usage
 * Snippies

@@ -3,6 +3,43 @@
 ###### Here you will find the current BRAVE Doctrine T1 Cruisers fits.
 ---
 ```
+[Celestis, Celestis MWD]
+
+Damage Control II
+1600mm Reinforced Rolled Tungsten Plates I
+Energized Adaptive Nano Membrane II
+Energized Adaptive Nano Membrane II
+Energized Explosive Membrane II
+
+Experimental 10MN Microwarpdrive I
+Sensor Booster II, Targeting Range Script
+Low Frequency Sensor Suppressor I, Targeting Range Dampening Script
+Low Frequency Sensor Suppressor I, Targeting Range Dampening Script
+Low Frequency Sensor Suppressor I, Targeting Range Dampening Script
+
+Ample Light Missile Launcher, Caldari Navy Mjolnir Light Missile
+Ample Light Missile Launcher, Caldari Navy Mjolnir Light Missile
+Ample Light Missile Launcher, Caldari Navy Mjolnir Light Missile
+
+Medium Trimark Armor Pump I
+Medium Trimark Armor Pump I
+Medium Trimark Armor Pump I
+
+Hornet EC-300 x5
+Acolyte II x5
+Nanite Repair Paste x50
+Targeting Range Script x1
+Scan Resolution Script x1
+Targeting Range Dampening Script x3
+Scan Resolution Dampening Script x3
+Caldari Navy Mjolnir Light Missile x1000
+Caldari Navy Nova Light Missile x1000
+```
+##### Doctrine Usage
+* FatFleet
+
+---
+```
 [Celestis, FatFleet Celestis Newbie]
 
 Damage Control II
@@ -85,7 +122,7 @@ Medium Core Defense Field Extender I
 Medium Core Defense Field Extender I
 Medium Anti-EM Screen Reinforcer I
 
-Warrior II x2
+Acolyte II x2
 Caldari Navy Mjolnir Light Missile x1000
 Caldari Navy Inferno Light Missile x1000
 Caldari Navy Scourge Light Missile x1000
@@ -120,7 +157,7 @@ Medium Core Defense Field Extender I
 Medium Core Defense Field Extender I
 Medium Anti-EM Screen Reinforcer I
 
-Warrior II x2
+Acolyte II x2
 Caldari Navy Mjolnir Heavy Missile x1000
 Caldari Navy Inferno Heavy Missile x1000
 Caldari Navy Scourge Heavy Missile x1000
@@ -130,6 +167,38 @@ Nanite Repair Paste x50
 ##### Doctrine Usage
 * Caracals
 * Ugly Ducklings
+
+---
+```
+[Exequror, Exequror MWD]
+
+Damage Control II
+800mm Reinforced Steel Plates II
+Energized Adaptive Nano Membrane II
+Energized Adaptive Nano Membrane II
+Energized Explosive Membrane II
+Capacitor Power Relay II
+
+Experimental 10MN Microwarpdrive I
+Cap Recharger II
+Cap Recharger II
+Cap Recharger II
+
+Medium 'Arup' Remote Armor Repairer
+Medium 'Arup' Remote Armor Repairer
+Medium 'Arup' Remote Armor Repairer
+
+Medium Trimark Armor Pump I
+Medium Trimark Armor Pump I
+Medium Trimark Armor Pump I
+
+
+Light Armor Maintenance Bot I x5
+Acolyte II x5
+Nanite Repair Paste x50
+```
+##### Doctrine Usage
+* Armour Derptars
 
 ---
 ```
@@ -161,39 +230,6 @@ Nanite Repair Paste x50
 ```
 ##### Doctrine Usage
 * FatFleet
-
----
-```
-[Moa, Moa AB Newbro]
-
-Damage Control II
-Tracking Enhancer II
-Power Diagnostic System II
-Magnetic Field Stabilizer II
-
-10MN Afterburner II
-Large Shield Extender II
-Large Shield Extender II
-Adaptive Invulnerability Field II
-Adaptive Invulnerability Field II
-
-200mm Prototype Gauss Gun
-200mm Prototype Gauss Gun
-200mm Prototype Gauss Gun
-200mm Prototype Gauss Gun
-200mm Prototype Gauss Gun
-
-Medium Anti-EM Screen Reinforcer I
-Medium Core Defense Field Extender I
-Medium Core Defense Field Extender I
-
-Antimatter Charge M x10000
-Caldari Navy Antimatter Charge M x2000
-Caldari Navy Thorium Charge M x2000
-Caldari Navy Iron Charge M x2000
-```
-##### Doctrine Usage
-* Ugly Ducklings
 
 ---
 ```
@@ -325,7 +361,7 @@ Medium Core Defense Field Extender I
 Medium Core Defense Field Extender I
 
 
-Warrior II x5
+Acolyte II x5
 Light Armor Maintenance Bot I x4
 Nanite Repair Paste x50
 ```
@@ -344,7 +380,7 @@ Mark I Compact Capacitor Power Relay
 
 Adaptive Invulnerability Field II
 Large F-S9 Regolith Shield Induction
-10MN Afterburner II
+Experimental 10MN Afterburner I
 Large F-S9 Regolith Shield Induction
 Adaptive Invulnerability Field II
 
@@ -357,7 +393,7 @@ Medium Core Defense Field Extender I
 Medium Ancillary Current Router I
 
 
-Warrior II x5
+Acolyte II x5
 Light Armor Maintenance Bot I x4
 Nanite Repair Paste x50
 ```
@@ -389,7 +425,7 @@ Medium Processor Overclocking Unit I
 Medium Anti-EM Screen Reinforcer I
 
 
-Warrior II x5
+Acolyte II x5
 Light Armor Maintenance Bot I x4
 Nanite Repair Paste x50
 ```
@@ -400,30 +436,31 @@ Nanite Repair Paste x50
 
 ---
 ```
-[Vexor, Vexor Shield]
+[Vexor, Scrub Farm Vexor]
+Power Diagnostic System II
 Power Diagnostic System II
 Damage Control II
 Drone Damage Amplifier II
 Drone Damage Amplifier II
-Mark I Compact Power Diagnostic System
 
 Adaptive Invulnerability Field II
-Adaptive Invulnerability Field II
+Large Shield Extender II
 Large Shield Extender II
 Experimental 10MN Microwarpdrive I
 
-280mm 'Scout' Artillery I
-280mm 'Scout' Artillery I
 Drone Link Augmentor I
+250mm Light 'Scout' Artillery I
+250mm Light 'Scout' Artillery I
 
 Medium Anti-EM Screen Reinforcer I
 Medium Core Defense Field Extender I
 Medium Core Defense Field Extender I
 
-Hammerhead II x5
-Acolyte II x5
+
 Warrior II x5
+Hammerhead II x5
 Hornet EC-300 x5
+Acolyte II x5
 
 Republic Fleet EMP S x500
 Nanite Repair Paste x50

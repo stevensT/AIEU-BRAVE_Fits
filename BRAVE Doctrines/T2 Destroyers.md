@@ -3,30 +3,26 @@
 ###### Here you will find the current BRAVE Doctrine T2 Destroyers fits.
 ---
 ```
-[Eris, Doctrine Eris]
+[Eris, Armor Fleet Eris]
 
 Damage Control II
-400mm Reinforced Steel Plates II
 Energized Adaptive Nano Membrane II
 Explosive Plating II
+400mm Reinforced Steel Plates II
 
-Limited 1MN Microwarpdrive I
 Cap Recharger II
+Limited 1MN Microwarpdrive I
 
-75mm Gatling Rail II
-75mm Gatling Rail II
-75mm Gatling Rail II
-75mm Gatling Rail II
-75mm Gatling Rail II
-75mm Gatling Rail II
-75mm Gatling Rail II
+Prototype Cloaking Device I
 Interdiction Sphere Launcher I
+125mm 'Scout' Accelerator Cannon
 
 Small Trimark Armor Pump I
 Small Trimark Armor Pump I
 
-Spike S x4000
-Warp Disrupt Probe x80
+Warp Disrupt Probe x50
+Nanite Repair Paste x50
+Caldari Navy Iron Charge S x500
 ```
 ##### Doctrine Usage
 * Freedom Fleet
@@ -37,30 +33,25 @@ Warp Disrupt Probe x80
 
 ---
 ```
-[Flycatcher, Doctrine Flycatcher]
-
+[Flycatcher, Shield Fleet Flycatcher]
 Damage Control II
 
-Medium Shield Extender II
-Medium Shield Extender II
 Adaptive Invulnerability Field II
 EM Ward Field II
+Medium Shield Extender II
+Medium Shield Extender II
 Limited 1MN Microwarpdrive I
 
+125mm Compressed Coil Gun I
+Prototype Cloaking Device I
 Interdiction Sphere Launcher I
-Prototype 'Arbalest' Light Missile Launcher
-[Empty High slot]
-[Empty High slot]
-[Empty High slot]
-[Empty High slot]
-[Empty High slot]
-[Empty High slot]
 
 Small Core Defense Field Extender I
 Small Core Defense Field Extender I
 
-Warp Disrupt Probe x80
-Caldari Navy Scourge Light Missile x1000
+Caldari Navy Iron Charge S x500
+Nanite Repair Paste x50
+Warp Disrupt Probe x50
 ```
 ##### Doctrine Usage
 * Freedom Fleet
@@ -71,30 +62,26 @@ Caldari Navy Scourge Light Missile x1000
 
 ---
 ```
-[Heretic, Doctrine Heretic]
+[Heretic, Armor Fleet Heretic]
 
 Damage Control II
-Adaptive Nano Plating II
+Energized Adaptive Nano Membrane II
 400mm Reinforced Rolled Tungsten Plates I
 
-Limited 1MN Microwarpdrive I
 Faint Epsilon Warp Scrambler I
+Limited 1MN Microwarpdrive I
 Fleeting Propulsion Inhibitor I
 
 200mm AutoCannon II
-200mm AutoCannon II
-200mm AutoCannon II
-200mm AutoCannon II
 Prototype Cloaking Device I
-'Arbalest' Rocket Launcher I
-'Arbalest' Rocket Launcher I
 Interdiction Sphere Launcher I
 
 Small Trimark Armor Pump I
 Small Trimark Armor Pump I
 
-Republic Fleet Phased Plasma S x4000
-Warp Disrupt Probe x80
+Warp Disrupt Probe x50
+Nanite Repair Paste x50
+Barrage S x500
 ```
 ##### Doctrine Usage
 * Freedom Fleet
@@ -105,29 +92,24 @@ Warp Disrupt Probe x80
 
 ---
 ```
-[Sabre, Doctrine Sabre]
+[Sabre, Shield Fleet Sabre]
 
 Damage Control II
 Nanofiber Internal Structure II
 
-Medium F-S9 Regolith Shield Induction
-Medium F-S9 Regolith Shield Induction
 Adaptive Invulnerability Field II
+Medium Shield Extender II
 Limited 1MN Microwarpdrive I
+Medium Azeotropic Ward Salubrity I
 
+Prototype Cloaking Device I
 Interdiction Sphere Launcher I
-125mm Gatling AutoCannon II
-125mm Gatling AutoCannon II
-125mm Gatling AutoCannon II
-125mm Gatling AutoCannon II
-125mm Gatling AutoCannon II
-125mm Gatling AutoCannon II
-125mm Gatling AutoCannon II
 
 Small Core Defense Field Extender I
 Small Core Defense Field Extender I
 
-Barrage S x4000
+Nanite Repair Paste x50
+Warp Disrupt Probe x50
 Warp Disrupt Probe x80
 ```
 ##### Doctrine Usage

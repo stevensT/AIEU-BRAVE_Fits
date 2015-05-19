@@ -44,51 +44,36 @@ Tracking Speed Script x2
 Optimal Range Script x2
 ```
 Doctrine Usage
-* 
+* Brave Slowcat
 
 ---
-#### Brave Slowcat
 ```
-[Archon, Brave Slowcat]
-Armor Thermic Hardener II
-Damage Control II
+[Archon, Brave Triage]
+Capacitor Power Relay II
+Capacitor Power Relay II
+Capacitor Power Relay II
 Imperial Navy Energized Adaptive Nano Membrane
 Imperial Navy Energized Adaptive Nano Membrane
-Armor EM Hardener II
-Armor Kinetic Hardener II
-Armor Explosive Hardener II
+Capital Armor Repairer I
+Capital Armor Repairer I
 
 Cap Recharger II
 Cap Recharger II
 Cap Recharger II
 Cap Recharger II
 
-Drone Link Augmentor II
-Drone Link Augmentor II
+Triage Module II
+Capital Remote Armor Repairer I
 Capital Remote Armor Repairer I
 Capital Remote Armor Repairer I
 Capital Remote Capacitor Transmitter I
 
-Capital Trimark Armor Pump I
-Capital Trimark Armor Pump I
-Capital Trimark Armor Pump I
-
-
-Hammerhead II x50
-Ogre II x20
-Templar x3
-Dragonfly x3
-Firbolg x3
-Einherji x3
-Garde II x100
-Bouncer II x101
-Warrior II x50
-
-Tracking Speed Script x2
-Optimal Range Script x2
+Capital Capacitor Control Circuit I
+Capital Capacitor Control Circuit I
+Capital Capacitor Control Circuit I
 ```
 Doctrine Usage
-* 
+* Brave Slowcat
 
 ---
 #### Brave Naglfar

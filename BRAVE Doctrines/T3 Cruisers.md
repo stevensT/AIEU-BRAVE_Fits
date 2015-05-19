@@ -141,6 +141,48 @@ Loki Propulsion - Interdiction Nullifier
 * Booster
 
 ---
+```[Proteus, Proteus - domi fleet]
+1600mm Reinforced Steel Plates II
+1600mm Reinforced Steel Plates II
+Armor Explosive Hardener II
+Armor EM Hardener II
+Energized Adaptive Nano Membrane II
+Damage Control II
+
+Phased Muon Sensor Disruptor I
+Dark Blood Warp Disruptor
+Phased Muon Sensor Disruptor I
+Phased Muon Sensor Disruptor I
+10MN Afterburner II
+
+Cynosural Field Generator I
+280mm Howitzer Artillery II
+280mm Howitzer Artillery II
+280mm Howitzer Artillery II
+
+Medium Trimark Armor Pump II
+Medium Trimark Armor Pump II
+Medium Trimark Armor Pump II
+
+Proteus Electronics - Friction Extension Processor
+Proteus Defensive - Augmented Plating
+Proteus Engineering - Capacitor Regeneration Matrix
+Proteus Offensive - Drone Synthesis Projector
+Proteus Propulsion - Gravitational Capacitor
+
+Hornet EC-300 x5
+Acolyte II x5
+Bouncer II x3
+
+Republic Fleet Depleted Uranium S x2000
+Tremor S x2000
+Nanite Repair Paste x100
+Scan Resolution Dampening Script x3
+Targeting Range Dampening Script x3
+```
+##### Doctrine Usage
+* PotatoFleet
+
 ```
 [Proteus, booster 4l]
 Co-Processor II
@@ -173,8 +215,49 @@ Proteus Propulsion - Interdiction Nullifier
 ```
 ##### Doctrine Usage
 * Booster
+
 ---
 ```
+[Tengu, Railgu]
+Damage Control II
+Magnetic Field Stabilizer II
+Magnetic Field Stabilizer II
+Magnetic Field Stabilizer II
+
+Adaptive Invulnerability Field II
+Explosive Deflection Field II
+EM Ward Field II
+EM Ward Field II
+Large Shield Extender II
+Large Shield Extender II
+10MN Afterburner II
+
+250mm Railgun II
+250mm Railgun II
+250mm Railgun II
+250mm Railgun II
+250mm Railgun II
+
+Medium Core Defense Field Extender II
+Medium Core Defense Field Extender II
+Medium Core Defense Field Extender II
+
+Tengu Defensive - Supplemental Screening
+Tengu Electronics - Obfuscation Manifold
+Tengu Propulsion - Fuel Catalyst
+Tengu Offensive - Magnetic Infusion Basin
+Tengu Engineering - Capacitor Regeneration Matrix
+
+Antimatter Charge M x5000
+Spike M x5000
+Caldari Navy Antimatter Charge M x5000
+Caldari Navy Thorium Charge M x5000
+Nanite Repair Paste x50
+```
+##### Doctrine Usage
+* Freedom Fleet
+
+---
 [Tengu, offgrid booster]
 Dread Guristas Co-Processor
 Dread Guristas Co-Processor
